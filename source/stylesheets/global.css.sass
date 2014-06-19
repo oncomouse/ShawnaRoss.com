@@ -86,6 +86,8 @@ em
 	font-style: italic
 strong
 	font-weight: 700
+	*
+		font-weight: 700 !important
 dl
 	margin-top: $leading
 	dt,dd
@@ -152,6 +154,47 @@ nav
 		text-align: left
 	.centered
 		text-align: center
+	table,ul,ol,dl,p
+		font-size: 0.9rem
+		margin:
+			top: $leading/2
+	p
+		margin:
+			left: $leading
+	h2, h3
+		+clearfix
+		border-bottom: 1px solid $baseFontColor
+		line-height: 0.65
+		small
+			float: right
+	h2
+		font-size: 1.75rem
+		& + h3
+			margin-top: $leading
+	table
+		+layout(12 0.125)
+		+container
+		+clearfix
+		
+		border-left: $leading solid transparent
+		
+		width: 100%
+		
+		tr
+			td
+				&:first-child
+					+span(4)
+				&:nth-child(2)
+					+span(5)
+				&:last-child
+					text-align: right
+					+span(3 last)
+		&.education
+			td
+				&:nth-child(2)
+					+span(6)
+				&:last-child
+					+span(2 last)
 
 #blog
 	article
