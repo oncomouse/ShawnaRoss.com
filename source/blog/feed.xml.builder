@@ -7,7 +7,9 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
 	xml.id "#{config[:site_deploy_root]}"
 	xml.link "href" => "#{config[:site_deploy_root]}/blog/"
 	xml.link "href" => "#{config[:site_deploy_root]}/blog/feed.xml", "rel" => "self"
-	xml.updated blog.articles.first.date.to_time.iso8601
+	if blog.articles.length > 0
+        xml.updated blog.articles.first.date.to_time.iso8601
+    end
 	xml.author { xml.name "Andrew Pilsch" }
 	#xml.language('en-us')
 
