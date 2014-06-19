@@ -4,4 +4,6 @@ id: cv
 ---
 
 ## Shawna Ross
+{:.centered}
+
 
