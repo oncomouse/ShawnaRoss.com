@@ -30,7 +30,7 @@
 		= stylesheet_link_tag("layout.css", :media => "all and (min-width: 800px)", :rel => "stylesheet" )
 		
 	%body
-		%section{:id => if current_page.data.has_key? "id" then current_page.data["id"] else nil end }
+		%section
 			= partial "nav"
-			.content
+			.content{:id => if current_page.data.has_key? "id" then current_page.data["id"] else nil end }
 				= yield

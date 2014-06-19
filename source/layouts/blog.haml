@@ -31,8 +31,8 @@
 		= stylesheet_link_tag("layout.css", :media => "all and (min-width: 800px)", :rel => "stylesheet" )
 		
 	%body
-		%section#blog
+		%section
 			= partial "nav"
-			.content
+			.content#blog
 				= yield
 		= partial "blog/javascript"
