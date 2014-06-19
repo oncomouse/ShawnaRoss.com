@@ -1,0 +1,22 @@
+@import "bear_defaults"
+
+@mixin splash
+	section nav .splash
+		background: url(<%= image_path('seascape.png') %>) no-repeat center bottom
+			size: cover
+
+.caronia
+	background: url(<%= image_path('caronia.png') %>) no-repeat center
+	min-height: 500px
+.caronia-small
+	background: url(<%= image_path('caronia_lowres.png') %>) no-repeat center
+	min-height: 150px
+	min-width: 81px
+	
+//+breakpoint($babyBearMQ)
+	
++breakpoint($mommyBearMQ)
+	+splash
+
++breakpoint($daddyBearMQ)
+	+splash

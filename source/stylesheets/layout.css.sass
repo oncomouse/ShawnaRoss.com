@@ -1,0 +1,82 @@
+/* 8. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
+ ----------------------------------------------------------------------------------------*/
+@import bear_defaults
+@import "compass/css3/background-clip"
++layout($susy)
++layout($mommyBearMaxWidth 8)
+
+section
+	+container
+	padding: 0
+	margin: 0 auto
+	$splashHeight: 360px
+	nav
+		text-align: left
+		.splash, .ribbon
+			display: block
+			.ribbon-content
+				display: block
+		+clearfix
+		position: relative
+		.splash
+			//repeating-linear-gradient(0deg, transparent, transparent 20px, rgba($orange, 0.4) 20px, rgba($orange, 0.4) 40px), 
+			+span(full)
+			min-height: $splashHeight
+			z-index: 1
+		.lozange
+			position: absolute
+			left: 50%
+			top: $splashHeight - 80
+			z-index: 3
+			height: 0
+			
+			.caronia-small, .lozange-bg
+				position: relative
+				left: -50%
+				margin-top: 0
+			.lozange-bg
+				top: -158px
+				width: 160px
+				height: 160px
+				background-color: $white
+				border-radius: 150 * 0.5px
+				border: 5px solid shade($green, 15%)
+				z-index: -1
+		.ribbons
+			+clearfix
+		ul
+			position: relative
+			top: auto
+			left: auto
+			right: auto
+			width: $mommyBearMaxWidth
+			background: transparent
+			list-style: none
+			text-align: center
+			padding: 0 40px
+				top: $leading / 2
+			li
+				font-size: 1.5 * $scale * 1rem
+	.content
+		margin: 0 40px
+			top: $leading * 2
+	
+	@import "ribbon"
+
+#blog
+	@import "settings/tipue"
+
+#front-page
+	#recent-posts
+		+span(8 of 8 last)
+		.post
+			+span(4 of 8)
+			&:nth-child(2n + 1)
+				+span(4 of 8 last)
+			
+
+/* 9. CUSTOM LAYOUT & TYPOGRAPHY (Daddy bear)
+ ----------------------------------------------------------------------------------------*/
+//@include breakpoint($daddyBearMQ)
+//	section
+//		+container

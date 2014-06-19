@@ -1,0 +1,15 @@
+#recent-posts
+	%h2 Recent Blog Posts
+
+	- articles_to_show = 4
+	- articles=[]
+	- if blog.articles.length < articles_to_show
+		- articles = blog.articles
+	- else
+		- articles = blog.articles[0,articles_to_show]
+	- articles.each do |article|
+		-next if build? and !article.published?
+		.post
+			%h3= link_to(article.title, article.url)
+			- nokogiri = Nokogiri::HTML(article.body)
+			%p= nokogiri.at('body').inner_text.scan(/[\w'’,.]+/)[0..50].join(" ") + " …"

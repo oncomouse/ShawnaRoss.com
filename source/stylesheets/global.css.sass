@@ -1,0 +1,486 @@
+/*
+ Goldilocks Approach to Responsive Web Design Boilerplate
+ 
+ Author: Design by Front - @designbyfront
+ Version: 0.1
+ URL: http://www.goldilocksapproach.com
+ ----------------------------------------------------------------------------------------
+ 
+ CONTENTS - GLOBAL.CSS
+ -----------------------------------------
+ 1. RESET
+ 2. ROOT
+ 3. CORE TYPOGRAPHY
+ 4. LINKS
+ 5. GLOBAL LAYOUT & GLOBAL CUSTOM TYPOGRAPHY
+ 6. CUSTOM LAYOUT & TYPOGRAPHY (Baby bear)
+ 7. BROWSER AND NON-SEMANTIC STYLING
+ 
+ CONTENTS - LAYOUT.CSS
+ -----------------------------------------
+ 8. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
+ 9. CUSTOM LAYOUT & TYPOGRAPHY (Daddy bear)
+ 
+ */
+@import "bear_defaults"
+
+/* 1. RESET
+ ----------------------------------------------------------------------------------------*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video 
+	margin: 0
+	padding: 0
+	border: 0
+	font-size: 100%
+	font: inherit
+	vertical-align: baseline
+
+@import "normalize"
+
+/* 2. ROOT
+ ----------------------------------------------------------------------------------------*/
+html	
+	overflow-y: scroll
+	background: #FFF
+body
+	margin-bottom: 6rem
+
+/* /ht Ethan Marcotte - http: //front.ie/l8rJaA */
+img, embed, object, video
+	max-width: 95%
+	margin: auto
+	display: block
+.ie6 img.full, .ie6 object.full, .ie6 embed, .ie6 video
+	width: 100% 
+
+/* 
+ * These selection declarations have to be separate
+ * No text-shadow: twitter.com/miketaylr/status/12228805301
+ * Also: hot pink!
+ */
+::-moz-selection
+	background: $orange
+	color: #fff
+	text-shadow: 1px 1px 0px shade($orange, 25%)
+
+::selection 
+	background: $orange
+	color: #fff
+	text-shadow: 1px 1px 0px shade($orange, 25%)
+
+/* 3. CORE TYPOGRAPHY
+ ----------------------------------------------------------------------------------------*/
+@import "libraries/typebase"
+
+html
+	font:
+		family: $bodyFontFamily
+		weight: $bodyFontWeight
+	background: $baseBackgroundColor
+	color: $baseFontColor
+h1,h2,h3,h4,h5,h6
+	font:
+		family: $headerFontFamily
+		weight: $headerFontWeight
+
+em
+	font-style: italic
+strong
+	font-weight: 700
+dl
+	margin-top: $leading
+	dt,dd
+		line-height: $leading
+	dd
+		margin-left: $leading
+
+/* 4. LINKS
+ ----------------------------------------------------------------------------------------*/
+a, a:visited
+	outline: none
+	color: $linkBaseColor
+	text-decoration: none
+	font:
+		weight: $linkFontWeight
+	@include transition(color .2s ease-out, background-color .2s ease-out) 
+	//text-shadow: 1px 1px 0 shade($linkBaseColor, 15%)
+
+	&:hover
+		outline: none
+		color: $linkHoverColor
+		text-decoration: none
+
+	&:active, &:focus
+		outline: none 
+	&:active
+		position: relative
+		top: 2px
+		color: $linkActiveColor
+
+.active
+	a, a:visited
+		color: $linkActiveBaseColor
+		text-shadow: 1px 1px 0 $linkActiveTextShadowColor
+
+/* 5. GLOBAL LAYOUT & GLOBAL CUSTOM TYPOGRAPHY
+ ----------------------------------------------------------------------------------------*/
+.role
+	+visuallyhidden
+	
+nav
+	ul
+		li
+			display: inline-block
+			font:
+				family: $headerFontFamily
+				weight: $headerFontWeight
+			&:after
+				+genericons
+				content: "\f408"
+				vertical-align: middle
+				padding-bottom: 12px
+			&:last-child:after
+				display: none
+.content
+	margin:
+		top: $leading
+	& > h2:first-child
+		margin:
+			top: 0
+
+#cv
+	h1,h2,h3,h4,h5
+		text-align: left
+	.centered
+		text-align: center
+
+#blog
+	article
+		header
+			text-align: center
+			.metadata
+				margin: 0 auto
+					top: -1 * $leading / 4
+			h3
+				display: inline-block
+				font:
+					family: $bodyFontFamily
+					weight: $bodyFontWeight
+					size: 0.95rem
+				text-transform: uppercase
+				line-height: 1
+				margin-top: 0
+				&:before, & a:before
+					@include genericons
+					font-size: 1.2rem
+				&.date:before
+					content: "\f303"
+				&.author:before
+					content: '\f304'
+				&.comment
+					a:before
+						content: '\f300'
+				a, a:visited
+					color: $black
+					text-decoration: none
+		.article_body
+			//margin-top: $leading * 2
+			blockquote
+				position: relative
+				font:
+					size: 1.15rem
+					style: italic
+				p
+					line-height: 1.35
+					em
+						font-style: normal
+				color: $blockquoteColor
+			ol,ul
+				margin-left: $leading / 8
+			.twitter-tweet
+				margin: 0 auto !important
+					top: $leading !important
+			.footnotes
+				&:before
+					content: "Notes:"
+					display: block
+					font:
+						size: 1 * $scale * 1rem
+						weight: $headerFontWeight
+						family: $headerFontFamily
+					line-height: $leading
+					margin-top: $leading * 3
+				li
+					font-size: 0.9rem
+				.reversefootnote
+					visibility: hidden
+					text-decoration: none
+					&:before
+						@include genericons
+						content: '\f467'
+						visibility: visible
+						font-size: 1rem
+						vertical-align: text-top
+		footer
+			margin:
+				top: 2 * $leading
+				bottom: 4 * $leading
+			.tags
+				a, a:visited
+					@include transition(none)
+					background-color: $tagBackgroundColor
+					border-radius: 0 2px 2px 0
+					color: $tagFontColor
+					display: inline-block
+					font-size: 14px
+					font-weight: 700
+					line-height: 1.2727272727
+					margin: 2px 4px 2px 10px
+					padding: 3px 7px
+					position: relative
+					text-transform: uppercase
+					text-decoration: none
+					&:hover
+						background-color: $linkHoverColor
+						color: $tagFontColor
+					&:before
+						border-top: 11px solid transparent
+						border-right: 10px solid $tagBackgroundColor
+						border-bottom: 12px solid transparent
+						content: ""
+						height: 0
+						position: absolute
+						top: 0
+						left: -10px
+						width: 0
+					&:hover:before
+						border-right-color: $linkHoverColor
+					&:after
+						background-color: $baseBackgroundColor
+						border-radius: 50%
+						content: ""
+						height: 4px
+						position: absolute
+						top: 10px
+						left: -3px
+						width: 4px
+			#related
+				margin-bottom: $leading
+				padding-left: $leading / 2
+				@include clearfix
+				&:before
+					content: "Related:"
+					display: block
+					text-transform: uppercase
+					font-size: 0.85em
+					margin-bottom: $leading / 2
+					margin-left: $leading / -2
+				ul
+					width: 70%
+				
+					margin: 0
+					list-style: none
+					+clearfix
+				
+					li
+						float: left
+						width: 28.5%
+						margin-right: 4.5%
+						font-size: 0.85em
+						line-height: 1
+						&:list-child
+							margin-right: 0
+					
+			#social
+				&:before
+					content: "Share This:"
+					display: block
+					text-transform: uppercase
+					font-size: 0.85em
+					margin-bottom: $leading / 2
+					margin-left: $leading / -2
+				margin-bottom: $leading
+				padding-left: $leading / 2
+			#navigation
+				margin-top: $leading * 2
+				+clearfix
+				p
+					display: block
+
+					padding: $leading / 4 $leading / 2
+					margin: 0
+					text-align: center
+					&.past,&.future
+						border-top: 1px solid $thingBorderColor
+						border-bottom: 1px solid $thingBorderColor
+						width: 50%
+						&:before
+							display: block
+							text-transform: uppercase
+							font-size: 0.85em
+							margin-bottom: $leading / 2
+						&:after
+							display: block
+						
+							font-size: 4rem
+							color: $thingArrowColor
+							margin:
+								top: $leading * -1
+					&.future:last-child, &.past:first-child
+						width: 100%
+					&.past
+						padding-left: $leading * 2
+						text-align: left
+						float: left
+						&:before
+							content: "Older Post"
+						&:after
+							float: left
+							content: "«"
+							margin:
+								left: $leading * -2
+					&.future
+						padding-right: $leading * 2
+						text-align: right
+						float: right
+						&:before
+							content: "Newer Post"
+						&:after
+							float: right
+							content: "»"
+							margin:
+								right: $leading * -2
+
+	#navigation
+		text-align: center
+		/* Drop a bootstrap component in here: */
+		.pagination
+			display: inline-block
+			padding-left: 0
+			margin: $leading 0
+			border-radius: 4px
+			font:
+				family: $headerFontFamily
+				weight: $headerFontWeight
+				size: 1.15rem
+			& >
+				li
+					display: inline
+					>
+						a, span
+							position: relative
+							float: left
+							padding: $leading / 4 $leading / 2
+							text-decoration: none
+							color: $paginationLinkColor
+							background-color: $paginationBaseBackround
+							border: 1px solid $paginationBorderColor
+							margin-left: -1px
+					&:first-child >
+						a, span
+							margin-left: 0
+							border-bottom-left-radius: 4px
+							border-top-left-radius: 4px
+					&:last-child >
+						a, span
+							border-bottom-right-radius: 4px
+							border-top-right-radius: 4px
+					>
+						a:hover, span:hover, a:focus, span:focus
+							color: $paginationHoverColor
+							background-color: $paginationHoverBackgroundColor
+							border-color: $paginationBorderColor
+						a:active
+							top: 0px
+				.active >
+					a, span, a:hover, span:hover, a:focus, span:focus
+						z-index: 2
+						color: $paginationActiveColor
+						background-color: $paginationActiveBackgroundColor
+						border-color: $paginationActiveBackgroundColor
+						cursor: default
+				.disabled >
+					span
+						color: $paginationDisabledColor
+						background-color: $paginationBaseBackround
+						border-color: $paginationBorderColor
+						cursor: not-allowed
+						&:hover, &:focus
+							color: $paginationDisabledColor
+							background-color: $paginationBaseBackround
+							border-color: $paginationBorderColor
+							cursor: not-allowed
+					a
+						color: $paginationDisabledColor
+						background-color: $paginationBaseBackround
+						border-color: $thingBorderColor
+						cursor: not-allowed
+						&:hover, &:focus
+							color: $paginationDisabledColor
+							background-color: $paginationBaseBackround
+							border-color: $paginationBorderColor
+							cursor: not-allowed
+
+/* 6. CUSTOM LAYOUT & TYPOGRAPHY (Baby bear)
+ ----------------------------------------------------------------------------------------*/
+
+
+h1,h2,h3,h4,h5,h6
+	text-align: center
+
+section
+	+layout(4)
+	+container
+	+clearfix
+
+	padding: 0 $leading/2
+	margin:
+		top: $leading * 3
+	.splash
+		display: none
+	
+	.ribbon
+		display: inline-block
+		.ribbon-content
+			display: inline-block
+		&.shawna
+			&:after
+				content: " "
+				display: inline-block
+				width: 0.5rem
+		h1
+			display: inline-block
+			margin:
+				top: 0
+	nav
+		text-align: center
+		ul
+			+span(full)
+			position: fixed
+			text-align: center
+			top: 0
+			left: 0
+			right: 0
+			background: $navBackgroundColor
+			margin: 0
+			padding:
+				top: $leading
+				bottom: $leading/4
+			li
+				font-size: 1.25 * $scale * 1rem
+#front-page
+	#recent-posts
+		+span(full)
+		.post
+			h3
+				font-size: 1.35 * $scale * 1rem
+			p
+				font-size: 0.9rem
+			
+#blog
+	p.read_more, p.back_to_index
+		font-size: 1.35rem
+	.tipue_search_bar_container
+		display: none
+
+/* 7. BROWSER AND NON-SEMANTIC STYLING
+ ----------------------------------------------------------------------------------------*/
