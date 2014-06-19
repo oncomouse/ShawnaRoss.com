@@ -19,6 +19,8 @@ activate :similar
 
 set :disqus_name, "shawnarossblog"
 
+set :site_deploy_root, "http://www.shawnaross.com"
+
 require "bourbon"
 require "susy"
 require "breakpoint"
@@ -102,6 +104,9 @@ activate :blog do |blog|
   # blog.month_link = ":year/:month.html"
   # blog.day_link = ":year/:month/:day.html"
   blog.default_extension = ".md"
+  
+  set :blog_author, "Shawna Ross"
+  set :blog_title, "Shawna Ross Blog"
 
   blog.tag_template = "blog/tag.html"
   blog.calendar_template = "blog/calendar.html"
