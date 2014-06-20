@@ -67,7 +67,7 @@ My first book project, *Modernism and the Art of Crossing*, is taken from the pa
 
 **"Toward a Digital Henry James."** *Henry James Today*, ed., John Carlos Rowe. Forthcoming, Cambridge Scholars Press, 2014.
 
-**"Mystery, History, Leisure, Pleasure: Evelyn Waugh, Bruno Latour, and the Ocean Liner."** *Literary Cartographies: Spatiality, Representation, and Narrative*, ed. Robert Tally. Forthcoming, Palgrave Macmillan, September 18, 2014.
+**"Mystery, History, Leisure, Pleasure: Evelyn Waugh, Bruno Latour, and the Ocean Liner."** *Literary Cartographies: Spatiality, Representation, and Narrative*, ed. Robert Tally. Forthcoming, Palgrave Macmillan, September 18, 2014. 111-126.
 
 **"This Wild Hunt for Rest: Working at Play in The Ambassadors."** *Journal of Modern Literature* 37.1 (Fall 2013): 1-20.
 
