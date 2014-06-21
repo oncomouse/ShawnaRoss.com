@@ -317,21 +317,13 @@ nav
 					font-size: 0.85em
 					margin-bottom: $leading / 2
 					margin-left: $leading / -2
-				ul
-					width: 70%
-				
+				ul	
 					margin: 0
 					list-style: none
 					+clearfix
-				
 					li
-						float: left
-						width: 28.5%
-						margin-right: 4.5%
-						font-size: 0.85em
-						line-height: 1
-						&:list-child
-							margin-right: 0
+						margin-top: $leading / 2
+						display: block
 					
 			#social
 				&:before
@@ -343,55 +335,53 @@ nav
 					margin-left: $leading / -2
 				margin-bottom: $leading
 				padding-left: $leading / 2
-			#navigation
-				margin-top: $leading * 2
-				+clearfix
-				p
-					display: block
+		#navigation
+			margin-top: $leading * 2
+			+clearfix
+			position: relative
+			p
+				display: block
 
-					padding: $leading / 4 $leading / 2
-					margin: 0
-					text-align: center
-					&.past,&.future
-						border-top: 1px solid $thingBorderColor
-						border-bottom: 1px solid $thingBorderColor
-						width: 50%
-						&:before
-							display: block
-							text-transform: uppercase
-							font-size: 0.85em
-							margin-bottom: $leading / 2
-						&:after
-							display: block
-						
-							font-size: 4rem
-							color: $thingArrowColor
-							margin:
-								top: $leading * -1
-					&.future:last-child, &.past:first-child
-						width: 100%
-					&.past
-						padding-left: $leading * 2
-						text-align: left
-						float: left
-						&:before
-							content: "Older Post"
-						&:after
-							float: left
-							content: "«"
-							margin:
-								left: $leading * -2
-					&.future
-						padding-right: $leading * 2
-						text-align: right
-						float: right
-						&:before
-							content: "Newer Post"
-						&:after
-							float: right
-							content: "»"
-							margin:
-								right: $leading * -2
+				padding: $leading / 4 $leading / 2
+				margin: 0
+				text-align: center
+				&.past,&.future
+					border-top: 1px solid $thingBorderColor
+					border-bottom: 1px solid $thingBorderColor
+					width: 50%
+					
+					&:before
+						display: block
+						text-transform: uppercase
+						font-size: 0.85em
+						margin-bottom: $leading / 2
+					&:after
+						display: block
+						font-size: 4rem
+						color: $thingArrowColor
+						position: absolute
+						top: $leading
+							
+				&.future:last-child, &.past:first-child
+					width: 100%
+				&.past
+					padding-left: $leading * 2
+					text-align: left
+					float: left
+					&:before
+						content: "Older Post"
+					&:after
+						content: "«"
+						left: 0
+				&.future
+					padding-right: $leading * 2
+					text-align: right
+					float: right
+					&:before
+						content: "Newer Post"
+					&:after
+						content: "»"
+						right: 0
 
 	#navigation
 		text-align: center
