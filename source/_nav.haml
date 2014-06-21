@@ -15,14 +15,14 @@
 				%h1
 					Ross
 	%ul
-		%li.blog{:class => if current_page.url =~ /blog/ then "active" end}= link_to "Blog", "/blog/"
+		%li.blog{:class => if current_page.respond_to? :blog_controller then "active" end}= link_to "Blog", "/"
 		%li.cv{:class => if current_page.data.has_key? "id" and current_page.data["id"] == "cv" then "active" end}= link_to "CV", "/cv/"
 		%li.research{:class => if current_page.data.has_key? "id" and current_page.data["id"] == "research" then "active" end}= link_to "Research", "/research"
 		%li.teaching{:class => if current_page.data.has_key? "id" and current_page.data["id"] == "teaching" then "active" end}= link_to "Teaching", "/teaching"
-	- if current_page.url.match /blog/ and not current_page.url.match /search/
+	- if current_page.respond_to? :blog_controller and not (current_page.url.match /search/ or current_page.request_path == "index.html")
 		.tipue_search_bar_container
 			.tipue_search_bar
-				%form{:method => "get", :action=>"/blog/search.html"}
+				%form{:method => "get", :action=>"search.html"}
 					%label{:for => "q"} Input Box to Search This Blog
 					%input#tipue_search_input.tipue_search_input{:type=>"text", :name => "q", :placeholder => "Search Blog"}
 					%input#tipue_search_button{:type=>"button"}

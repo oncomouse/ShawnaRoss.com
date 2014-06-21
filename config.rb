@@ -93,9 +93,9 @@ page "/blog/*", :layout => :blog_article
 set :haml, { :ugly => true, :format => :html5 }
 
 activate :blog do |blog|
-  blog.prefix = "blog/"
+  blog.prefix = ""
   # blog.permalink = ":year/:month/:day/:title.html"
-  blog.sources = ":year-:month-:day-:title.html"
+  blog.sources = "blog/:year-:month-:day-:title.html"
   # blog.taglink = "tags/:tag.html"
   blog.layout = "blog_article"
   # blog.summary_separator = /(READMORE)/
@@ -108,8 +108,8 @@ activate :blog do |blog|
   set :blog_author, "Shawna Ross"
   set :blog_title, "Shawna Ross Blog"
 
-  blog.tag_template = "blog/tag.html"
-  blog.calendar_template = "blog/calendar.html"
+  blog.tag_template = "tag.html"
+  blog.calendar_template = "calendar.html"
 
   blog.paginate = true
   blog.per_page = 6
