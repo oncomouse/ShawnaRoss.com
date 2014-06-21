@@ -97,7 +97,10 @@ activate :blog do |blog|
   blog.prefix = ""
   # blog.permalink = ":year/:month/:day/:title.html"
   blog.sources = "posts/:year-:month-:day-:title.html"
-  # blog.taglink = "tags/:tag.html"
+  blog.taglink = ":tag.html"
+  blog.year_link = ":year"
+  blog.month_link = ":year/:month"
+  blog.day_link = ":year/:month/:day"
   blog.layout = "blog_article"
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
@@ -109,8 +112,8 @@ activate :blog do |blog|
   set :blog_author, "Shawna Ross"
   set :blog_title, "Shawna Ross Blog"
 
-  blog.tag_template = "tag.html"
-  blog.calendar_template = "calendar.html"
+  blog.tag_template = "blog/tag.html"
+  blog.calendar_template = "blog/calendar.html"
 
   blog.paginate = true
   blog.per_page = 6
