@@ -116,7 +116,10 @@ activate :blog do |blog|
   # blog.page_link = "page/:num"
 end
 
-#activate :directory_indexes
+activate :directory_indexes
+page "/cv.html", :directory_index => false
+page "/teaching.html", :directory_index => false
+page "/research.html", :directory_index => false
 #page "/blog/feed.xml", :layout => false
 #page "/blog/rss.xml", :layout => false
 
