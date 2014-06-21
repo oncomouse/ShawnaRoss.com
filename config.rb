@@ -89,13 +89,14 @@ set :images_dir, 'images'
 
 #activate :directory_indexes
 page "/blog/*", :layout => :blog_article
+page "/posts/*", :layout => :blog_article
 
 set :haml, { :ugly => true, :format => :html5 }
 
 activate :blog do |blog|
   blog.prefix = ""
   # blog.permalink = ":year/:month/:day/:title.html"
-  blog.sources = "blog/:year-:month-:day-:title.html"
+  blog.sources = "posts/:year-:month-:day-:title.html"
   # blog.taglink = "tags/:tag.html"
   blog.layout = "blog_article"
   # blog.summary_separator = /(READMORE)/
