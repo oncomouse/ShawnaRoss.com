@@ -34,3 +34,4 @@
 			= partial "nav"
 			.content{:id => if current_page.data.has_key? "id" then current_page.data["id"] else nil end }
 				= yield
+		= partial "javascript"
