@@ -13,4 +13,4 @@ Beyond the leisure book and encoding James, I am working on essays on Katherine 
 
 Regarding Mansfield, I wish to develop a materialist approach that makes sense of disparate accounts of Mansfield's tone---variously as sentimental or as cynical---by looking at the non-human in her stories. It is inside Mansfield's remarkable objects, plants, and animals in her short stories that humanity inheres, from the parrot wallpaper of "Prelude" to the cream puff of "The Garden Party" to the dead bird of "The Canary" to the almond that might or might not be in the honey cake of "Miss Brill." It is this economy of delegated sympathy that accounts for these inconsistencies of tone.
 
-Publication information can be found [at my CV][cv.html].
+Publication information can be found [at my CV](cv.html).
