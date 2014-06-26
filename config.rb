@@ -98,9 +98,9 @@ activate :blog do |blog|
   # blog.permalink = ":year/:month/:day/:title.html"
   blog.sources = "posts/:year-:month-:day-:title.html"
   blog.taglink = ":tag.html"
-  blog.year_link = ":year"
-  blog.month_link = ":year/:month"
-  blog.day_link = ":year/:month/:day"
+  blog.year_link = "blog/:year/index.html"
+  blog.month_link = "blog/:year/:month/index.html"
+  blog.day_link = "blog/:year/:month/:day/index.html"
   blog.layout = "blog_article"
   # blog.summary_separator = /(READMORE)/
   # blog.summary_length = 250
