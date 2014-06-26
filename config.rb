@@ -162,7 +162,7 @@ end
 
 activate :deploy do |deploy|
   deploy.method = :rsync
-  deploy.user = "eschaton"
+  deploy.user = "shawnaross"
   deploy.host = "copland.dreamhost.com"
-  deploy.path = "~/www/andrew.pilsch.com/"
+  deploy.path = "~/www/shawnaross.com/"
 end
