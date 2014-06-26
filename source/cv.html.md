@@ -53,13 +53,9 @@ M.A., English | The Pennsylvania State University | May 2007
 B.A., English | University of Tennessee, *summa cum laude* | May 2005
 {:.education}
 
-## Dissertation
-
-My dissertation, defended in June 2011, explores leisure—free time that isn’t free—as a trope constitutive of literary modernism. The historical appearance of a variety of new leisure spaces (hotels, liners, spas) and of a public discourse evaluating these new developments, are taken up in the work of E. M. Forster, Wyndham Lewis, Elizabeth Bowen, Katherine Mansfield, Evelyn Waugh, and others. For these writers, leisure serves not only as a prominent mode of aesthetic, economic, and social investment in Great Britain, but also as a fundamental field through which transnational relationships were forged and conceptualized. My ultimate thesis is that leisure served as a powerful field for imagining and critiquing modernity, particularly through its dialectical relationship with philosophical and commercial concepts of modern labor.
-
 ## Book Project
 
-My first book project, *Modernism and the Art of Crossing*, is taken from the part of my dissertation that examines representations of the ocean liner and the cruise ship from the 1840s to the 1950s. Drawing from rare archival materials, visual culture, and literary texts, I trace the emergence of a new ocean liner culture that, in both its literary and popular iterations, constructed the transatlantic liner as a distinct cultural object by forging new techniques of representation to express the ships’ alienness. Readings of texts by Charles Dickens, Anthony Trollope, Joseph Conrad, Virginia Woolf, and Evelyn Waugh demonstrate that the steamship was perceived as a discontinuous series of incommensurable fragments that could be conceived as whole by making imaginative leaps only possible through the mediation of designers and writers.
+My dissertation, defended in June 2011, explores leisure—free time that isn’t free—as a trope constitutive of literary modernism. The historical appearance of a variety of new leisure spaces (hotels, liners, spas) and of a public discourse evaluating these new developments, are taken up in the work of E. M. Forster, Wyndham Lewis, Elizabeth Bowen, Katherine Mansfield, Evelyn Waugh, and others. For these writers, leisure serves not only as a prominent mode of aesthetic, economic, and social investment in Great Britain, but also as a fundamental field through which transnational relationships were forged and conceptualized. My ultimate thesis is that leisure served as a powerful field for imagining and critiquing modernity, particularly through its dialectical relationship with philosophical and commercial concepts of modern labor.
 
 ## Articles and Essays
 
