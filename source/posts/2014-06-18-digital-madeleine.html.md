@@ -1,21 +1,21 @@
 ---
 title: A Digital Madeleine
-date: 2014-06-18 19:16 UTC
+date: 2014-06-26 19:16 UTC
 tags: henry james, digital humanities
-published: false
+published: true
 ---
 
-This morning, I received a heart-stopping email from a concerned typesetting editor in charge of the upcoming edited collection, _Henry James Today_ (edited by John Rowe), for which I’ve contributed my essay “Toward a Digital Henry James.”
+A few mornings ago, I received a heart-stopping email from a concerned typesetting editor in charge of the upcoming edited collection, _Henry James Today_ (edited by John Rowe), for which I’ve contributed my essay “Toward a Digital Henry James.”
 
 Figure 4 was blurry. 
 
 Now, Figure 4 was made on a whim about a year ago. I had no intentions then of publishing Figure 4, a scatter plot based on Henry James’s _The Ambassadors_ (1903). It charts the uses of a certain grammatical form (the indexical mode) according to character, page number, and sentence length. I posted it promptly on Facebook to scare my non-academic friends, then moved on to whatever I was actually supposed to be working on at the time.
 
-What a lark, eh? I should have remembered how frequently impulses turn in to projects. (Alternately, I may need new hobbies?)
+I should have remembered how frequently impulses turn in to projects. (Alternately, I may need new hobbies?)
 
-A few weeks later, when I needed to illustrate one use of quantitative formalism for analyzing James’s late style, I simply popped it in. And ten months later, when my bluff was called the editor requested a 300dpi version of the figure, I cursed Past Self for not particularly going out of my way to save my data, record my process, or even remember which was the original file and which were copies, compressed, or converted. _She’s a smart one, that editor_, I thought. _I can’t buy her off with just resampling the 75dpi image._
+Later, when I needed to illustrate one use of quantitative formalism for analyzing James’s late style, I simply popped it in. And ten months after that, when my bluff was called the editor requested a 300dpi version of the figure, I cursed Past Self for not particularly going out of my way to save my data, record my process, or even remember which was the original file and which were copies, compressed, or converted. _She’s a smart one, that editor_, I thought. _I can’t buy her off with just resampling the 75dpi image._
 
-Those who saw my Twitter feed earlier today know how I did it:
+Those who saw my Twitter feed then know how I did it:
 
 <blockquote class="twitter-tweet" lang="en"><p>300dpi chart in 2011 MSOffice: Create chart in Excel. C&amp;P into empty PowerPoint. Print slide as PDF. In Word: Insert&gt;Photo&gt;Picture from File</p>&mdash; ShawnaRoss (@ShawnaRoss) <a href="https://twitter.com/ShawnaRoss/statuses/478958222980947969">June 17, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
