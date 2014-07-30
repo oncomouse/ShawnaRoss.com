@@ -97,7 +97,7 @@ activate :blog do |blog|
   blog.prefix = ""
   # blog.permalink = ":year/:month/:day/:title.html"
   blog.sources = "posts/:year-:month-:day-:title.html"
-  blog.taglink = ":tag.html"
+  blog.taglink = "tag/:tag.html"
   blog.year_link = ":year/index.html"
   blog.month_link = ":year/:month/index.html"
   blog.day_link = ":year/:month/:day/index.html"
