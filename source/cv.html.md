@@ -115,7 +115,9 @@ My dissertation, defended in June 2011, explores leisure—free time that isn’
 
 **RGSO Dissertation Support Award**, Penn State College of the Liberal Arts, Spring 2010.
 
-## Service
+## Service and Membership
+
+**Member**, MLA, MSA, NAVSA, Henry James Society
 
 **Chair**, "Invisible Light." NAVSA Conference, 2013.
 
