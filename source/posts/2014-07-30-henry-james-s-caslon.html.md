@@ -50,7 +50,7 @@ On top of these technical details, the font set would need to include
 * True italics and bold typefaces
 * Both lowercase and uppercase numerals
 * A generous and creative selection of ligatures
-* A smattering of swashes decorative printers' glyphs (fleurons, daggers, and the like)
+* A smattering of swashes and decorative printers' glyphs (fleurons, daggers, and the like)
 * A more of less complete array of foreign accent marks (with an emphasis on elegant French diacritics)
 
 No free typeface would satisfy all those demands. Paying is probably the best way to ensure prompt, reliable, _continuing_ support, besides which, I'm certainly not against paying someone for his/her labor. And when [that person](https://twitter.com/WilliamBerkson) writes such a fun, thoughtful, and absorbing explication of his process---"Reviving Caslon" [part one](http://ilovetypography.com/2010/07/26/reviving-caslon-the-snare-of-authenticity/) and [part two](http://ilovetypography.com/2010/11/02/reviving-caslon-part-2-readability-affability-authority/)---well, I'm gonna [go full Fry](http://knowyourmeme.com/memes/shut-up-and-take-my-money) on it.
