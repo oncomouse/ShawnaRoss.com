@@ -1,5 +1,5 @@
 ---
-title: How Much Text Can You Handle? Line Length, Longreads, and Henry James
+title: How Much Text Can You Handle? Line Length, Gutenberg, and Henry James
 date: 2014-08-27 15:53 UTC
 tags: Henry James, longreads, digital edition
 ---
