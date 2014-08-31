@@ -53,23 +53,26 @@ M.A., English | The Pennsylvania State University | May 2007
 B.A., English | University of Tennessee, *summa cum laude* | May 2005
 {:.education}
 
-## Book Project
+## Book Projects
 
-_Leisured Fictions: Working at Play in British Literature, 1840-1960_ explores leisure—free time that isn’t free—as a trope constitutive of literary modernism. The historical appearance of a variety of new leisure spaces (hotels, liners, spas) and of a public discourse evaluating these new developments, are taken up in the work of Charles Dickens, W. M. Thackeray, G. K. Chesterton, E. M. Forster, Wyndham Lewis, Elizabeth Bowen, Katherine Mansfield, Evelyn Waugh, and others. For these writers, leisure serves not only as a prominent mode of aesthetic, economic, and social investment in Great Britain, but also as a fundamental field through which transnational relationships were forged and conceptualized. My ultimate thesis is that leisure served as a powerful field for imagining and critiquing modernity, particularly through its dialectical relationship with philosophical and commercial concepts of modern labor.
+_Leisured Fictions: Working at Play in British Literature, 1840-1960_ explores leisure—free time that isn’t free—as a literary trope emerging out of the historical appearance of a variety of new leisure spaces (particularly hotels, ocean liners, and seaside resorts) and of a public discourse evaluating these new developments, are taken up in the work of Charles Dickens, W. M. Thackeray, G. K. Chesterton, Henry James, E. M. Forster, Wyndham Lewis, Elizabeth Bowen, Katherine Mansfield, and Evelyn Waugh. For these writers, leisure serves not only as a prominent mode of aesthetic, economic, and social investment in Great Britain, but also as a fundamental field through which transnational relationships were forged and conceptualized. Adapting theoretical frameworks from space theory, critical leisure studies, and actor-network theory, as well as mining ocean liner archives to reconstruct the visual culture of crossing and cruising, _Leisure Fictions_ shows how leisure served as a powerful field for imagining and critiquing modernity, particularly through its dialectical relationship with philosophical and commercial concepts of modern labor.
+
+_Reading Modernism with Machines_ is a collection of 7,000-word case studies I am co-editing with fellow digital humanist [James O’Sullivan](http://josullivan.org/). Distinguished from current collections on the digital humanities that focus primarily on methodology, tool use, and theory, this collection assembles case studies focused on interpretive outcomes that will materially contribute to discipline- and author-specific directions in Modernist Studies. Contributions about W. B. Yeats, James Joyce, Virginia Woolf, T. S. Eliot, Ezra Pound, and others will juxtapose written argumentation with computer-generated visualizations and statistics to illuminate digital approaches scholars can take to investigate the international literary avant-garde of the early twentieth century. In doing so, _Reading Modernism with Machines_ will break new ground in discipline-specific digital humanities research.
+
 
 ## Articles and Essays
 
-**"Hashtags, Compression Algorithms, and Henry James’s Late Style."** Forthcoming, *The Henry James Review*, 2014.
+**"Hashtags, Compression Algorithms, and Henry James’s Late Style."** Forthcoming, *The Henry James Review*, 36.1 (Winter 2015).
 
-**"Toward a Digital Henry James."** *Henry James Today*, ed., John Carlos Rowe. Forthcoming, Cambridge Scholars Press, 2014.
+**"Toward a Digital Henry James."** *Henry James Today*, ed., John Carlos Rowe. Forthcoming, Cambridge Scholars Press, January 2015.
 
-**"Mystery, History, Leisure, Pleasure: Evelyn Waugh, Bruno Latour, and the Ocean Liner."** *Literary Cartographies: Spatiality, Representation, and Narrative*, ed. Robert Tally. Forthcoming, Palgrave Macmillan, September 18, 2014. 111-126.
+**"Mystery, History, Leisure, Pleasure: Evelyn Waugh, Bruno Latour, and the Ocean Liner."** *Literary Cartographies: Spatiality, Representation, and Narrative*, ed. Robert Tally. Forthcoming, Palgrave Macmillan, September 2014. 111-126.
 
 **"This Wild Hunt for Rest: Working at Play in The Ambassadors."** *Journal of Modern Literature* 37.1 (Fall 2013): 1-20.
 
 **"The Two Hotels of Elizabeth Bowen: Utopian Modernism in the Age of Mechanized Hospitality."** *Utopianism, Modernism, and Literature in the Twentieth Century*, ed. Nathan Waddell and Alice Reeve-Tucker, Palgrave Macmillan, 2013. 148-167.
 
-## Miscellaneous Publications
+## Book Reviews & Invited Blog Posts
 
 **["In Praise of Overstating the Case: A Review of Franco Moretti’s Distant Reading."](http:///www.digitalhumanities.org/dhq/vol/8/1/000171/000171.html)** *Digital Humanities Quarterly*, 8.1 (2014).
 
@@ -81,15 +84,19 @@ _Leisured Fictions: Working at Play in British Literature, 1840-1960_ explores l
 
 ## Publications in Progress
 
-**"The Brontës’ Multispecies Ethnography."** Target journal, *Victorian Literature and Culture*.
+**"Charlotte Brontë at the Anthropocene: Geology and Topography in _Jane Eyre_ and _Shirley_."** Target journal, *Victorian Literature and Culture*.
 
-**"The Metaliner Sublime: Modernism and the Art of Crossing."** Target journal, *Modernism/Modernity*.
+**"Toward a Digital Modern Literature: Recent Publications in Digital Humanities." Review essay solicited by the _Journal of Modern Literature_.
+
+**"Delegated Sympathies: Surface Reading Katherine Mansfield's Objects."** Target journal, *Modern Fiction Studies*.
 
 ## Selected Conference Presentations
 
-**"Agatha Christie’s Impossible Vacation."**  *Modern Language Association*. Chicago, Il, 2014.
+**"Remembering William Carlos Wiliams's 'The Use of Force': Anti-Vaxxers, Medical Ethics, and Short Story Syllabi."** Modern Language Association Conference. Vancouver, BC, January 2015. Accepted.
 
-**"Yeats by the Numbers."** *Modern Language Association*. Chicago, Il, 2014.
+**"Agatha Christie’s Impossible Vacation."**  *Modern Language Association*. Chicago, IL, 2014.
+
+**"Yeats by the Numbers."** *Modern Language Association*. Chicago, IL, 2014.
 
 **"The Brontes’ Multispecies Ethnography."** *North American Victorian Studies Association*. Pasadena, CA, 2013.
 
@@ -99,7 +106,7 @@ _Leisured Fictions: Working at Play in British Literature, 1840-1960_ explores l
 
 **"‘You cannot go further in life than this sentence by James’: Deleuze, Guattari, James."** *Modern Language Association Conference*, Los Angeles, CA, 2011.
 
-**"Behaving Like a Film Star: Waugh and Le Corbusier on the Cruise Ship."** *Modernist Studies Association Conference*, Victoria, B.C., 2010.
+**"Behaving Like a Film Star: Waugh and Le Corbusier on the Cruise Ship."** *Modernist Studies Association Conference*, Victoria, BC, 2010.
 
 **"Locating Utopia In Between: The Temporary Autonomous Zone in Elizabeth Bowen’s The Hotel."** *Modernism and Utopia Conference*, Birmingham, UK, 2010.
 
@@ -107,7 +114,9 @@ _Leisured Fictions: Working at Play in British Literature, 1840-1960_ explores l
 
 **"Towards a Theory of the Catalogic: The Loose Commodity in Marxist Theory and Modernist Literature."** *Modernist Studies Association Conference*, Montreal, QC, 2009.
 
-## Awards
+## Awards & Grants
+
+**Toward a Digital Henry James**, Institute for Humanities Research Seed Grant, Arizona State University, Spring 2014. Co-PI with Andrew Pilsch. (Outcome: Revise and Resubmit.)
 
 **Excellence In Teaching Award**, Penn State English Department, Spring 2012.
 
@@ -115,57 +124,76 @@ _Leisured Fictions: Working at Play in British Literature, 1840-1960_ explores l
 
 **RGSO Dissertation Support Award**, Penn State College of the Liberal Arts, Spring 2010.
 
-## Service and Membership
+## Service & Memberships
 
-**Member**, MLA, MSA, NAVSA, Henry James Society
+**Obama Scholars Mentor**. Arizona State University, 2014.
+
+**Organizer**, "Problems and Solutions for Modernist Digital Humanities." MSA Conference, 2014.
+
+**SLS Representative**, Dialogue@ASU Workshop. Arizona State University, 2014.
+
+**Participant**, THATCamp Southwest. Tempe, AZ, 2014.
+
+**Participant**, Content Management Systems Working Group. Arizona State University, 2014.
 
 **Chair**, "Invisible Light." NAVSA Conference, 2013.
+
+**Honors Advisor**, Gina Fiorentin. "Race and Sexuality in the Victorian Imperial Romance," 2012.
 
 **Organizer**, "Leisure Modernism." MSA Conference, 2011. 
 
 **Chair**, "Thirties Modernism: Across Spaces, Across Forms." MSA Conference, 2009.
 
-**Treasurer**, PSU Modernist Workshop, 2005-2009. Created annual budgets, raised funds from multiple sources within department and university, and dispersed funds.
+**Treasurer**, Modernist Workshop. The Pennsylvania State University, 2005-2009. 
 
-**Speakers Series Coordinator**, PSU Modernist Workshop, 2007-2009. Invited outside speakers, created itineraries, and planned events to facilitate department-wide participation.
+**Speakers Series Coordinator**, Modernist Workshop. The Pennsylvania State University, 2007-2009. 
 
-## Teaching Experience	<small>16 distinct courses / 35 total sections</small>
+**Member**, Modern Literature Association, Modernist Studies Association, North American Victorian Studies Association, Henry James Society
 
-### Upper-Division Literature Courses	<small>6 courses / 9 sections</small>
+## Teaching Experience	<small>18 distinct courses / 38 total sections</small>
 
-**Modern British Fiction, 1900-1945**: Stresses the interdependence of stylistic experimentation and the social, economic, technological, and geopolitical conditions of modernity. Students are assessed by a variety of writing assignments, research presentations.
+### British Literature	<small>9 courses / 12 sections</small>
 
-**Mapping London Through Literature**: This online course covers London-centric poetry, fiction, non-fiction, and graphic fiction by Defoe, Blake, Dickens, Doyle, Chesterton, Woolf, Eliot, Christie, Spark, and Moore. Students create digital maps of texts and analytical essays.
+**Survey of British Literature from 1800**: Uses digital-humanistic methods to teach students how to engage with British literature as a salient discourse turning history and culture into significant form.
 
-**The Edwardians, Then and Now**: This course juxtaposes popular and canonical literature of the Edwardian period (including works by Ford, Wodehouse, Barrie, Shaw) with contemporary representations of the Edwardians (including recent television series, films, journalism, and novels) in order to query the relation between history, desire, and nostalgia.
+**The Novel to Jane Austen**: Examines the growth of the British novel through epistolary novels, Gothic novels, and novels of manners by Defoe, Richardson, Walpole, Burney, Austen, and others.
 
-**Soldiers, Spies, and Bureaucrats**: Adventure Fiction of the British Empire: This course charts the growth and decline of the British Empire as a narrative trope by investigating the Victorian imperial romance. Students also learn foundational concepts of postcolonial theory.
+**Soldiers, Spies, and Bureaucrats: Adventure Fiction of the British Empire**: Charts the growth of imperial romance genre (Haggard, Ouida, Childers, Marryat, Mason) through a postcolonial lens.
 
-**The Brontës**: Love and Hate in Yorkshire: Covering the juvenilia and mature works of Charlotte, Branwell, Emily, and Anne Brontë, this course requires students to create an online "Brontë Wiki," including online concordances based on themes of of their choice.
+**The Brontës: Love and Hate in Yorkshire**: Covers juvenilia, drawings, and novels of Charlotte, Branwell, Emily, and Anne Brontë. Students create a “Brontë Wiki” and online concordances.
 
-**The American Short Story**: Writing-intensive course surveying realist, modernist and post-modernist short fiction. Discussions explore Americanness as a semiotic system connecting genre, narrative voice, and conflicts between political philosophies and lived experience.
+**Modern British Fiction, 1900-1945**: Adapts cultural studies to stress artistic experimentation as interrelated with the economic, technological, and geopolitical conditions of modernization.
 
-### Lower-Division Literature Courses <small>7 courses / 8 sections</small>
+**Modern Irish Literature**: Reads Joyce, Yeats, Synge, Beckett, Bowen, O’Flaherty, Kavanagh, O’Brien, Boland, Doyle, and Enright through the contested rubric of cultural nationalism.
 
-**Introduction to Critical Reading**: This course serves as a gateway to the English major by introducing a variety of methods of critical interpretation. Supplementary literary texts (short stories, poems, and one novel) encourage students to apply theory. 
+**The Edwardians, Then and Now**: Comparatively analyzes literature from the Edwardian period with contemporary representations to query the relationship between history, desire, and nostalgia.
 
-**Reading Fiction**: This course for non-majors that pairs "literary" and "popular" texts addressing similar themes, encouraging students to reflect on the relationship between "high" and "mass" culture. Teaches tenets of narratology to encourage precision during discussions. 
+**Virginia Woolf and the Bloomsbury Group**: Clusters the fiction, criticism, fine and decorative arts, philosophy and economics of the Group to investigate class, empire, gender, and sociability. 
 
-**The Novel to Jane Austen**: This course analyzes the rise of the novel in England through texts by Defoe, Richardson, Walpole, Burney, and Austen.
+**Mapping London Through Literature**: Surveys literature set in London (Defoe, Blake, Dickens, Doyle, Chesterton, Woolf, Eliot, Christie, Spark, and Moore). Students then digitally map texts. 
 
-**Modern Irish Literature**: This course surveys 20th century Irish drama, poetry, and fiction through the rubric of "cultural nationalism" to reveal relations between colonialism and modernity, and literature and to consider literature’s power as a tool of political persuasion. 
 
-**Survey of British Literature from 1800**: This survey uses digital-humanistic methods to teach students how to engage with Romantic, Victorian, Modernist, and Postmodern British literature as a living and salient discourse that turns history and culture into significant form.
+### Other Literatures & Theory <small>5 courses / 7 sections</small>
 
-**Survey of Western Literature to 1600**: This general education course familiarizes non-majors with works by Sappho, Homer, Virgil, Dante, Boccaccio, Cervantes, Rabelais, Shakespeare, and others. Course foregrounds themes of hospitality, travel, and translation.
+**Survey of Western Literature to 1600**: Foregrounds themes of hospitality, travel, and translation in Sappho, Homer, Virgil, Dante, Boccaccio, Cervantes, Rabelais, Shakespeare, and others.
 
-**Survey of World Literature from 1600**: This general education course analyzes the role literature plays in political and cultural persuasion. It requires daily writing assignments and students are given regular and thorough feedback on the development of their writing skills.
+**Survey of World Literature from 1600**: Analyzes literature as a virtual space of cultural immersion (Motokiyo, Menglong, Rousseau, Jun’Ichiro, Xun, Kafka, Peynetsa, Achebe, Díaz, and others).
 
-### Composition Courses <small>3 courses / 16 sections</small>
+**Introduction to Critical Reading**: Serves as a gateway to the English major by introducing students to a variety of methods of literary-critical analysis and theory, using Dracula as a case study.
 
-**Honors Rhetoric and Composition: The Rhetoric of Food Blogging:** An introductory course that foregrounds food blogging as a case study for interrogating the affordances and limitations of online writing contexts. Students write food blogs as well as traditional essays. They also learn about how new online publishing opportunities for aspiring English majors.
+**Reading Fiction**: Juxtaposes “literary” and “popular” texts addressing similar themes to focus on fiction as a genre. Teaches tenets of narratology to encourage precision during discussions.
 
-**Rhetoric and Composition**: Combines classical figures of rhetoric and grammar with strategies for communicating through contemporary media. To foster student ownership of writing, each student chooses a personal "theme" about which he or she writes six essays.
+**The American Short Story**: Surveys realist, modernist, and post-modern stories to see America as a semiotic system linking structure, voice, and conflicts between politics and personal experience.
 
-**First-Year Seminar**: A combined composition course and freshman seminar that familiarizes students with the methods and goals of the liberal arts and introduces students to academic, cultural, vocational, and technological resources available at the university.
 
+### Rhetoric & Composition <small>4 courses / 19 sections</small>
+
+**Introduction to Rhetoric and Composition**: Combines classical figures of rhetoric and grammar to teach college writing. Students choose a personal “theme” to give them a sense of ownership.
+
+**Social Media as Composition**: Teaches college writing through interrogating the rhetorical and structural norms of new genres of social media communication. All essays are multi-modal.
+
+**Honors Composition: The Rhetoric of Food Blogging**: Foregrounds food blogging as a case study for interrogating the affordances of online writing. Students create blogs as well as essays.
+
+**Freshman Seminar**: Teaches writing while familiarizing freshmen with the academic skills needed for college and introduces them to on-campus vocational, technological, and support resources.
+
+###References upon Request
