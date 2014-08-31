@@ -86,7 +86,7 @@ _Reading Modernism with Machines_ is a collection of 7,000-word case studies I a
 
 **"Charlotte Brontë at the Anthropocene: Geology and Topography in _Jane Eyre_ and _Shirley_."** Target journal, *Victorian Literature and Culture*.
 
-**"Toward a Digital Modern Literature: Recent Publications in Digital Humanities." Review essay solicited by the _Journal of Modern Literature_.
+**"Toward a Digital Modern Literature: Recent Publications in Digital Humanities."** Review essay solicited by the _Journal of Modern Literature_.
 
 **"Delegated Sympathies: Surface Reading Katherine Mansfield's Objects."** Target journal, *Modern Fiction Studies*.
 
@@ -94,25 +94,25 @@ _Reading Modernism with Machines_ is a collection of 7,000-word case studies I a
 
 **"Remembering William Carlos Wiliams's 'The Use of Force': Anti-Vaxxers, Medical Ethics, and Short Story Syllabi."** Modern Language Association Conference. Vancouver, BC, January 2015. Accepted.
 
-**"Agatha Christie’s Impossible Vacation."**  *Modern Language Association*. Chicago, IL, 2014.
+**"Agatha Christie’s Impossible Vacation."**  Modern Language Association. Chicago, IL, 2014.
 
-**"Yeats by the Numbers."** *Modern Language Association*. Chicago, IL, 2014.
+**"Yeats by the Numbers."** Modern Language Association. Chicago, IL, 2014.
 
-**"The Brontes’ Multispecies Ethnography."** *North American Victorian Studies Association*. Pasadena, CA, 2013.
+**"The Brontes’ Multispecies Ethnography."** North American Victorian Studies Association. Pasadena, CA, 2013.
 
-**"What Would Strether Tweet? James’s Late Style as New Media Ecology."** *Modern Language Association Conference*, Boston, MA, 2013. 
+**"What Would Strether Tweet? James’s Late Style as New Media Ecology."** Modern Language Association Conference, Boston, MA, 2013. 
 
-**"One Circus, Two Publics: Laura Knight, Wyndham Lewis, and the Spectacle of Class Politics."** *Modernist Studies Association Conference*, Las Vegas, NV, 2012. 
+**"One Circus, Two Publics: Laura Knight, Wyndham Lewis, and the Spectacle of Class Politics."** Modernist Studies Association Conference, Las Vegas, NV, 2012. 
 
-**"‘You cannot go further in life than this sentence by James’: Deleuze, Guattari, James."** *Modern Language Association Conference*, Los Angeles, CA, 2011.
+**"‘You cannot go further in life than this sentence by James’: Deleuze, Guattari, James."** Modern Language Association Conference, Los Angeles, CA, 2011.
 
-**"Behaving Like a Film Star: Waugh and Le Corbusier on the Cruise Ship."** *Modernist Studies Association Conference*, Victoria, BC, 2010.
+**"Behaving Like a Film Star: Waugh and Le Corbusier on the Cruise Ship."** Modernist Studies Association Conference, Victoria, BC, 2010.
 
-**"Locating Utopia In Between: The Temporary Autonomous Zone in Elizabeth Bowen’s The Hotel."** *Modernism and Utopia Conference*, Birmingham, UK, 2010.
+**"Locating Utopia In Between: The Temporary Autonomous Zone in Elizabeth Bowen’s The Hotel."** Modernism and Utopia Conference, Birmingham, UK, 2010.
 
-**"The Jamesian Action Space: Sociology and Space in Henry James’s Daisy Miller and The Ambassadors."** *Conference on Literature and Culture Since 1900*, Louisville, KY, 2010.
+**"The Jamesian Action Space: Sociology and Space in Henry James’s Daisy Miller and The Ambassadors."** Conference on Literature and Culture Since 1900, Louisville, KY, 2010.
 
-**"Towards a Theory of the Catalogic: The Loose Commodity in Marxist Theory and Modernist Literature."** *Modernist Studies Association Conference*, Montreal, QC, 2009.
+**"Towards a Theory of the Catalogic: The Loose Commodity in Marxist Theory and Modernist Literature."** Modernist Studies Association Conference, Montreal, QC, 2009.
 
 ## Awards & Grants
 
