@@ -144,9 +144,11 @@ _Reading Modernism with Machines_ is a collection of 7,000-word case studies I a
 
 **Chair**, "Thirties Modernism: Across Spaces, Across Forms." MSA Conference, 2009.
 
-**Treasurer**, Modernist Workshop. The Pennsylvania State University, 2005-2009. 
+**Tutor**, Undergraduate Writing Center. Pennsylvania State University, 2008.
 
 **Speakers Series Coordinator**, Modernist Workshop. The Pennsylvania State University, 2007-2009. 
+
+**Treasurer**, Modernist Workshop. The Pennsylvania State University, 2005-2009. 
 
 **Member**, Modern Literature Association, Modernist Studies Association, North American Victorian Studies Association, Henry James Society
 
