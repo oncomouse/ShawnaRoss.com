@@ -92,7 +92,7 @@ _Reading Modernism with Machines_ is a collection of 7,000-word case studies I a
 
 ## Selected Conference Presentations
 
-**"Remembering William Carlos Wiliams's 'The Use of Force': Anti-Vaxxers, Medical Ethics, and Short Story Syllabi."** Modern Language Association Conference. Vancouver, BC, January 2015. Accepted.
+**"Remembering William Carlos Williams's 'The Use of Force': Anti-Vaxxers, Medical Ethics, and Short Story Syllabi."** Modern Language Association Conference. Vancouver, BC, January 2015. Accepted.
 
 **"Agatha Christie’s Impossible Vacation."**  Modern Language Association. Chicago, IL, 2014.
 
@@ -145,6 +145,7 @@ _Reading Modernism with Machines_ is a collection of 7,000-word case studies I a
 **Chair**, "Thirties Modernism: Across Spaces, Across Forms." MSA Conference, 2009.
 
 **Tutor**, Undergraduate Writing Center. Pennsylvania State University, 2008.
+
 
 **Speakers Series Coordinator**, Modernist Workshop. The Pennsylvania State University, 2007-2009. 
 
