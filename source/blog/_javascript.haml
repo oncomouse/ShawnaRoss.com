@@ -20,8 +20,8 @@
 	= javascript_include_tag "tipue.min.js"
 	- init_calls.push "$('#tipue_search_input').tipuesearch();"
 	
--nokogiri_doc = Nokogiri::HTML(article.body)
--if nokogiri_doc.css(".footnotes").length > 0
+-#nokogiri_doc = Nokogiri::HTML(article.body)
+-if false #nokogiri_doc.css(".footnotes").length > 0
 	- if not included_jquery
 		= javascript_include_tag "https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"
 		- included_jquery = true
@@ -29,17 +29,17 @@
 		function translate_footnotes() {
 			$('.footnotes').children().first().children().each(function() {
 				var $this = $(this);
+				var fn_num = $this.attr('id').split(':')[1]
 				var aside = $('<aside id="' + $this.attr('id') + '">' + $this.html() + '</aside>');
-				var target = $('#fnref\\:' + $this.attr('id').split(':')[1]).parent();
-				console.log(target);
-				console.log(aside);
+				var target = $('#fnref\\:' + fn_num).parent();
+				$this.attr('id', 'old-fn:' + fn_num);
 				target.before(aside);
 			});
 			$('.reversefootnote').remove();
-			$('.footnotes').remove();
+			//$('.footnotes').remove();
 			
 		}
-	- #init_calls.push "translate_footnotes();"
+	-# init_calls.push "translate_footnotes();"
 	
 -if init_calls.length > 0
 	:javascript
