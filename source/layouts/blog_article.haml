@@ -86,5 +86,5 @@
 			.content#blog
 				.articles
 					=partial "blog/article", :locals => { :short => false, :article => current_page, :index => nil }
-		= partial "blog/javascript"
+		= partial "blog/javascript", :locals => { :short => false, :article => current_page, :index => nil }
 		= partial "javascript"
