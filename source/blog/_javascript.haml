@@ -1,4 +1,3 @@
-
 - if build?# and current_page.data.has_key? "layout"
 	:javascript
 		/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -10,17 +9,19 @@
 			s.src = '//' + disqus_shortname + '.disqus.com/count.js';
 			(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
 		}());
+
 - init_calls = []
 - included_jquery = false
 - if current_page.source_file =~ /search.html/
 	- if not included_jquery
 		= javascript_include_tag "https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"
-		= included_jquery = true
+		- included_jquery = true
 	= javascript_include_tag "tipue_content.js"
 	= javascript_include_tag "tipue.min.js"
-	- init_calls.push "$(document).ready(function() {$('#tipue_search_input').tipuesearch();});"
-	
+	- init_calls.push "$('#tipue_search_input').tipuesearch();"
 	
 -if init_calls.length > 0
 	:javascript
-		#{init_calls.join("\n")}
+		$(document).ready(function() {
+			#{init_calls.join("\n")}
+		});
