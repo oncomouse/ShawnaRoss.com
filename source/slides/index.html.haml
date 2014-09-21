@@ -8,6 +8,7 @@ layout: false
 	- depth += path_hunt.count("/")
 - else
 	- directory = nil
+- file_regex = Regexp.new("#{path_hunt.gsub("/","\\/")}\\/[^.]+.html")
 
 - # Naturalize a string that contains numbers
 - def naturalized s
@@ -66,16 +67,12 @@ layout: false
 				This is [Shawna Ross](http://www.shawnaross.com)'s slide repository. It hosts slides made using [Remark.js](http://remarkjs.com).
 		
 			%ul
-				-  Dir.glob("source/#{path_hunt}/**/*").map{|item| item.gsub("source","").gsub(/\.html.*$/, ".html")}.each do |item|
-					- if File.extname(item) == ""
-						- item += "/index.html"
-					- resource = sitemap.find_resource_by_path(item)
+				- sitemap.resources.select{|a| (a.destination_path =~ file_regex)}.sort{|a,b| naturalized(a.destination_path.to_s) <=> naturalized(b.destination_path.to_s)}.each do |resource|
 					- next if not defined? resource.data
-					
 					- next if resource.data["hidden"] and resource.data["hidden"] == true
-
+					
 					- # Skip the template file
-					- next if resource.path =~ /remark_markdown_template.html/
+					- next if resource.source_file =~ /remark_markdown_template.html/
 					- if resource.data["title"] and resource.destination_path.count("/") <= depth
 						%li
 							= link_to "#{resource.data["title"]}",  resource.destination_path.gsub(path_hunt + "/", "")
@@ -83,4 +80,3 @@ layout: false
 					- if resource.destination_path =~ /.+\/index.html/ and resource.destination_path != "#{directory}/index.html" and resource.destination_path.count("/") - 1 == depth
 						%li
 							= link_to resource.destination_path.gsub(path_hunt + "/", "").gsub("index.html","").capitalize, resource.destination_path.gsub(path_hunt + "/", "")
-				
