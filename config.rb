@@ -12,6 +12,7 @@ set :markdown, :fenced_code_blocks => true,
 # Change Compass configuration
 compass_config do |config|
 #   config.output_style = :compact
+    config.line_comments = false
 end
 
 activate :syntax
@@ -28,8 +29,35 @@ require 'compass-normalize'
 
 require "lib/custom_haml_markdown.rb"
 
+parse_files = Dir.entries("#{Dir.pwd}/source/slides")
+
+while parse_files.length > 0
+    file = parse_files.shift
+    next if file =~ /^\./
+    next if file =~ /remark_base/
+    
+
+    
+    if file =~ /(\.markdown|\.md)$/# or File.extname(file) == ".md"
+        markdown_source = File.open("#{Dir.pwd}/source/slides/#{file}").read
+        if markdown_source =~ /^---/
+            yaml_options = YAML.load markdown_source.split(/---/)[1]
+        else
+            yaml_options = {}
+        end
+        proxy "/slides/#{file.sub(File.extname(file), "")}", "/slides/remark_markdown_template.html", :locals => {:markdown_source => file, :yaml_options => yaml_options}
+    end 
+    
+	if File.directory? "#{Dir.pwd}/source/slides/#{file}" and !(file =~ /(javascripts|stylesheets|images|fonts|layouts)/) and !(file =~ /^\./)
+        proxy "slides/#{file}/index.html", "slides/index.html", :locals => {:directory => file}
+        parse_files += Dir.entries("#{Dir.pwd}/source/slides/#{file}").map! { |x| if x =~ /^\./ then nil else "#{file}/#{x}" end }
+        parse_files.compact!.uniq!
+	end
+end
+
 ready do
 	ignore "/**/*.yml"
+    ignore "/slides/remark_markdown_template.html"
 end
 
 ###
@@ -125,6 +153,8 @@ page "/cv.html", :directory_index => false
 page "/teaching.html", :directory_index => false
 page "/research.html", :directory_index => false
 page "/search.html", :directory_index => false
+page "/slides/**/*", :directory_index => false
+page "/slides/*", :directory_index => false
 #page "/blog/feed.xml", :layout => false
 #page "/blog/rss.xml", :layout => false
 
