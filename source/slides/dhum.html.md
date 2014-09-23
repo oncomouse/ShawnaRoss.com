@@ -154,7 +154,7 @@ class: middle, center, big
 
 Conventional recommendations: 45-100 characters; average: 70 characters. As [Rutter's digital adaptation](http://webtypography.net/) of Bringhurst [advises](http://webtypography.net/2.1.2), 
 
->Anything from 45 to 75 characters is widely regarded as a satisfactory length of line for a single-column page set in a serifed text face in a text size. The 66-character line (counting both letters and spaces) is widely regarded as ideal.
+> _Anything from 45 to 75 characters is widely regarded as a satisfactory length of line for a single-column page set in a serifed text face in a text size. The 66-character line (counting both letters and spaces) is widely regarded as ideal._
 
 ---
 
@@ -332,9 +332,9 @@ class: big
 
 class: middle, center, big
 
-.title-block[
-But before you can really indulge in these typographic subtleties, you should have something to _work on_, right? That's where rapid prototyping comes in.
-]
+
+But before you can really indulge in these typographic subtleties, you should have something to _work on_, right? That's where _rapid prototyping_ comes in.
+
 
 ---
 
@@ -396,7 +396,7 @@ class: medium
 
 # Metadata
 
-## "Data about Data"
+## _Data about Data_
 
 1. Think about bibliographies
 1. Where did your object come from?
@@ -440,7 +440,7 @@ class: medium
 
 class: medium
 
-A _workflow_ is an explicit, complete declaration of an ordered series of actions within a complete cycle of object acquisition. It may document program choices, data input, the paths of files among programs and users, error checking, and data preservation strategies.
+A _workflow_ is an explicit, complete declaration of an ordered series of actions within a complete cycle of object acquisition. It may document program choices, data input, the paths of files moving among programs and users, error checking, and data preservation strategies.
 
 ---
 
@@ -517,7 +517,7 @@ class: medium
 # Political Issues: Respect
 
 * Textual editing historically not the most glamorous task
-* Some may doubt if encoding is "actually" work 
+* Some may doubt if encoding is "actually" scholarship
 * You may be regarded as doing service rather than research
 
 ---
@@ -541,17 +541,18 @@ class: medium
 
 ### Talking Points for Haters
 
-## The Public!
+### The Public!
 * Public outreach
   * Open-access text creation
 * Community service
   * Appeal to regional interests or needs
 * Crowdsourcing 
   * Bring the public into the academic sphere
-## Value!
+  
+### Value!
 * Grant funding
 * Institutional prestige
-* "Let us take care of making admin happy."
+* "Let us take care of the administrators."
 
 ---
 
@@ -577,9 +578,9 @@ class: middle, center, big
 
 ### Jane Garrity chimes in, noting that she and her collaborators for a transnational women's anthology
 
-> _have encountered some resistance from publishers who...cannot make the finances work. Many of the primary sources that we are interested in bringing back into print are not readily available.
+> _have encountered some resistance from publishers who...cannot make the finances work. Many of the primary sources that we are interested in bringing back into print are not readily available._
 
-> We have also been told that scholarly editions that bring individual writers further up the research ladder are more likely to be published than...'forgotten' and 'noncanonical' figures. In short, I think that publishers' commissioning priorities will need to change if everyone's anthology desires are to be met._ 
+> _We have also been told that scholarly editions that bring individual writers further up the research ladder are more likely to be published than...'forgotten' and 'noncanonical' figures. In short, I think that publishers' commissioning priorities will need to change if everyone's anthology desires are to be met._ 
 
 ---
 
@@ -605,7 +606,7 @@ class: big
 * Fast & Light
 * Eclectic & Inclusive
 
-## Bypass publishers, who might kill innovation at every step
+## _Bypass publishers, who might kill innovation at every step_
 
 ---
 
@@ -631,11 +632,11 @@ class: big
 
 ### Props to your prof's tiered solution
 
-1. Solicit and Receive PDF files from MSA members
-  * Method depends on tech-savviness of provider: meet these people where they are
+1. Solicit and receive PDF files from MSA members
+  * Method depends on tech-savviness of provider: meet people where they are
 1. Gather files on GibHub for Groups page
 1. Convert PDFs to plain text
-  * May use OCR/conversion program for bulk transformation of PDF into plain text tile
+  * May use OCR/conversion program for bulk transformation of PDF into plain text
 1. Convert plain text files to Markdown files and commit to GitHub
   * Some hand-encoding necessary
 1. Slap up prototype website via Jekyll
@@ -643,23 +644,22 @@ class: big
 1. Develop modernistsourcebook.org or the like
   1. Database-driven application using specific style sheets depending on genre
   1. Develop on Ember, Backbone, etc, any app that runs Ruby on Rails in browser
-  1. Keep GitHub - may not need complicated server system
+  1. Keep GitHub (may not need complicated server system)
 
 ---
 
 # ModSource: Futures
 
 ## Create Individualized Coursepacks
-  1. Track texts
-  1. Track users
-  1. Track coursepacks
+* Track texts + Track users = Track coursepacks
   
 ## Enrich the texts
-  1. Variants
-  1. Student editions
-  1. Critical apparatuses
-  1. Multiple output formats
-  1. Author-specific stylesheets
+
+* Variants
+* Student editions
+* Critical apparatuses
+* Multiple output formats
+* Author-specific stylesheets
 
 ---
 
