@@ -64,9 +64,9 @@ _Reading Modernism with Machines_ is a collection of 7,000-word case studies I a
 
 **"Hashtags, Compression Algorithms, and Henry James’s Late Style."** Forthcoming, *The Henry James Review*, 36.1 (Winter 2015).
 
-**"Toward a Digital Henry James."** *Henry James Today*, ed., John Carlos Rowe. Forthcoming, Cambridge Scholars Press, January 2015.
+**"Toward a Digital Henry James."** *Henry James Today*, ed., John Carlos Rowe. Forthcoming, Cambridge Scholars Press, November 2014.
 
-**"Mystery, History, Leisure, Pleasure: Evelyn Waugh, Bruno Latour, and the Ocean Liner."** *Literary Cartographies: Spatiality, Representation, and Narrative*, ed. Robert Tally. Forthcoming, Palgrave Macmillan, September 2014. 111-126.
+**"Mystery, History, Leisure, Pleasure: Evelyn Waugh, Bruno Latour, and the Ocean Liner."** *Literary Cartographies: Spatiality, Representation, and Narrative*, ed. Robert Tally. Palgrave Macmillan, 2014. 111-126.
 
 **"This Wild Hunt for Rest: Working at Play in The Ambassadors."** *Journal of Modern Literature* 37.1 (Fall 2013): 1-20.
 
