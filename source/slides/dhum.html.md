@@ -217,7 +217,7 @@ class: big
 
 ## Locating Typeface: Collect Your Data
 
-* Capital A: concave stroke at hte top
+* Capital A: concave stroke at the top
 * Italic Capital E: viciously extreme serifs
 * Italic Lowercase F: slim and spare, no curl to it
 * Italic Lowercase H: stem is straight; looks like a _"b"_
