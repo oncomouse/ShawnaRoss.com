@@ -178,11 +178,11 @@ Conventional recommendations: 45-100 characters; average: 70 characters. As [Rut
 
 class: big
 
-## For the record, that's
+### For the record, that's
 
 > _The Prince had always liked his London, when it had come to him; he was one of the modern Romans who find by the Thames a more convincing_
 
-## just to earn your first line break.
+### just to earn your first line break.
 
 ---
 
@@ -268,7 +268,7 @@ class: big
 * Fractions, superiors, inferiors
 * Swashes
 * Alternate long Q, 0, 1
-* En and em dash choices
+* Multiple en- and em-dash lengths
 * Floating accents
 
 ### Winner: [Williams Caslon at the Font Bureau](http://www.fontbureau.com/fonts/williamscaslontext/)
@@ -330,6 +330,14 @@ class: big
 
 ---
 
+class: middle, center, big
+
+.title-block[
+But before you can really indulge in these typographic subtleties, you should have something to _work on_, right? That's where rapid prototyping comes in.
+]
+
+---
+
 class: medium
 
 _Rapid prototyping_ is a strategy whereby you swiftly erect a relatively stable interface to manufacture temporary mock-ups modeling proposed functionalities _in a semi-usable form_ so you do not waste time building something that is wrong.
@@ -368,6 +376,8 @@ _Rapid prototyping_ is a strategy whereby you swiftly erect a relatively stable 
 * Library resources 
   * Librarians!
   * Bibliographical tools (Zotero)
+  
+### _Get the job done, and learn as you go._
 
 ---
 
@@ -399,14 +409,14 @@ class: medium
 
 ### Adaptable
   * It should respond to the varying needs of each particular text
-  * Slightly different information for different genres (poem, manifesto, novel)
+  * Slightly different information for different genres (poem, manifesto, short story, novel, letter)
   
 ### Linked
-  * Eventually could be tied to style/presentation information at front end (CSS)
+  * Eventually could be tied semantically to style/presentation information at front end (CSS)
   * Files will be simpler, documentation more efficient
   
 ### Granular
-  * Submitted to more kinds of transformations
+  * Submitted to more kinds of transformations (more tools!)
   * Can generate individualized libraries
 
 ---
@@ -430,7 +440,7 @@ class: medium
 
 class: medium
 
-A _workflow_ is an explicit, complete declaration of an ordered series of actions within a complete cycle of object acquisition that contains references to program choices, data input, the passage of files among programs and users, error checking, and data preservation strategies.
+A _workflow_ is an explicit, complete declaration of an ordered series of actions within a complete cycle of object acquisition. It may document program choices, data input, the paths of files among programs and users, error checking, and data preservation strategies.
 
 ---
 
@@ -477,10 +487,13 @@ Always include provision for keeping data somewhere else than your own hard driv
 ## Turf Wars
 
 ### Stay polite. 
-* When necessary for copyright or goodwill, seek out "stakeholders."
+* When _necessary_ for copyright or goodwill, seek out "stakeholders."
+* Copyright: family members/trusts, editors/scholars
+* Departments, centers, scholarly organizations
 
 ### Don't be railroaded. Don't give up!
-* It may just take time or a due acknowledgment of prior scholarship!
+* It may just take time or due acknowledgment of prior scholarship.
+* Emphasize communal responsibility & effort, not individual efforts
   
 ---
   
@@ -489,10 +502,12 @@ Always include provision for keeping data somewhere else than your own hard driv
 ## Turf War Strategies
 
 ### Use "stakeholders" to solve problems for you
-* They work, too, and can help you avoid feature creep
+* They work, too, and have contacts.
+* They can help you avoid feature creep (by delegation).
 
 ### Keep focus on what you actually want to achieve
 * May have to sacrifice total vision to reach most important goal
+* Adjust scope of content to remain firm about digital outcomes and structures
 * Stay patient! 
 
 ---
@@ -503,7 +518,7 @@ class: medium
 
 * Textual editing historically not the most glamorous task
 * Some may doubt if encoding is "actually" work 
-* You may be regarded as doing "service" rather than research
+* You may be regarded as doing service rather than research
 
 ---
 
@@ -526,14 +541,17 @@ class: medium
 
 ### Talking Points for Haters
 
-1. The Public!
-  1. Public outreach (open-source texts)
-  1. Community service (appeal to regional interests or needs)
-  1. Crowdsourcing (bring the public into the academic sphere)
-1. Money!
-  1. Grant funding
-  1. Let us take care of making the deans happy for you
-1. If all else fails, quote from Jerome McGann's _A New Republic of Letters_. Non-DH people are impressed by it.
+## The Public!
+* Public outreach
+  * Open-access text creation
+* Community service
+  * Appeal to regional interests or needs
+* Crowdsourcing 
+  * Bring the public into the academic sphere
+## Value!
+* Grant funding
+* Institutional prestige
+* "Let us take care of making admin happy."
 
 ---
 
@@ -551,15 +569,17 @@ class: middle, center, big
 
 ### Jonathan Morse asks the Modernist Studies Association group for
 
-> _an anthology of primary sources (not just backgrounds or criticism) for a senior-level introduction to modernist literature, primarily in English..[because existing anthologies have] eccentric selections, unfocused intorductions, fine print, no pictures, and typos and editorial errors on almost every page._
+> _an anthology of primary sources (not just backgrounds or criticism) for a senior-level introduction to modernist literature, primarily in English...[because existing anthologies have] eccentric selections, unfocused intorductions, fine print, no pictures, and typos and editorial errors on almost every page._
 
 ---
 
 # ModSource: Problem
 
-### Jane Marie Garrity chimes in, noting that she and her collaborators
+### Jane Garrity chimes in, noting that she and her collaborators for a transnational women's anthology
 
-> _have encountered some resistance from publishers who...cannot make the finances work. Many of the primary sources that we are interested in bringing back into print are not readily available.... We have also been told that scholarly editions that bring individual writers further up the research ladder are more likely to be published than...'forgotten' and 'noncanonical' figures. In short, I think that publishers' commissioning priorities will need to change if everyone's anthology desires are to be met._ 
+> _have encountered some resistance from publishers who...cannot make the finances work. Many of the primary sources that we are interested in bringing back into print are not readily available.
+
+> We have also been told that scholarly editions that bring individual writers further up the research ladder are more likely to be published than...'forgotten' and 'noncanonical' figures. In short, I think that publishers' commissioning priorities will need to change if everyone's anthology desires are to be met._ 
 
 ---
 
@@ -585,7 +605,7 @@ class: big
 * Fast & Light
 * Eclectic & Inclusive
 
-## Bypass publishers, who will kill innovation at every step
+## Bypass publishers, who might kill innovation at every step
 
 ---
 
@@ -609,7 +629,7 @@ class: big
 
 # ModSource: Workflow
 
-### Props to your prof
+### Props to your prof's tiered solution
 
 1. Solicit and Receive PDF files from MSA members
   * Method depends on tech-savviness of provider: meet these people where they are
@@ -623,7 +643,7 @@ class: big
 1. Develop modernistsourcebook.org or the like
   1. Database-driven application using specific style sheets depending on genre
   1. Develop on Ember, Backbone, etc, any app that runs Ruby on Rails in browser
-  1. Keep GitHub if possible - may not need complicated server system
+  1. Keep GitHub - may not need complicated server system
 
 ---
 
@@ -636,10 +656,10 @@ class: big
   
 ## Enrich the texts
   1. Variants
-  1. Multiple outputs
-  1. Critical apparatuses
-  1. Author-specific stylesheets
   1. Student editions
+  1. Critical apparatuses
+  1. Multiple output formats
+  1. Author-specific stylesheets
 
 ---
 
