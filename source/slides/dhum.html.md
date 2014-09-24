@@ -127,7 +127,7 @@ class: middle, center, big
 
 ---
 
-## Sample Complexity Levels for _The Ambassadors_
+## Sample Complexity Levels, _The Ambassadors_
 
 |Chapter     | Lexical Density      | Readability     |
 |:------------|:--------------------:|----------------:|
