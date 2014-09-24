@@ -142,6 +142,8 @@ class: middle, center, big
 | Dialogue | 57.9% | 4.1 |
 | Narration | 66.0% | 11.4 |
 
+### _There is no single "difficulty" level for a James text._
+
 ---
 
 ## Line Lengths
@@ -350,7 +352,7 @@ _Rapid prototyping_ is a strategy whereby you swiftly erect a relatively stable 
 
 1. Minimizes initial investment (time and money)
 1. Leverages enthusiasms as they occur
-1. Enables user reviews/responses at early stage
+1. Enables user feedback at early stage
 1. Clarifies ideals and scope of project
 1. Produces deliverable to legitimize funding requests/applications
 
@@ -418,6 +420,7 @@ class: medium
 ### Granular
   * Submitted to more kinds of transformations (more tools!)
   * Can generate individualized libraries
+  * Allows you to maintain focus on descriptive (not procedural) markup
 
 ---
 
@@ -433,7 +436,7 @@ class: medium
 
 ### Orthodoxy OK!
   * Consider the [Dublin Core Schema](http://dublincore.org/)
-  * Practical to select an existing schema to customize
+  * Practical to select an existing schema to customize _slightly_
   * Probably no need to reinvent the wheel here
 
 ---
@@ -464,7 +467,7 @@ Even if only you will see it, you may forget what you meant months from now!
 ### Start small
 Establish good habits before you scale out your workflow.
 ### Should be a microcosm
-Even if implicitly, your workflow should mirror your goals and priorities.
+Even if implicitly, your workflow should mirror your goals and priorities. Workflow = an "atom" of your project. It reflects (perhaps constitutes) your project's individuality!
 ### Push it out!
 Always include provision for keeping data somewhere else than your own hard drive!
 
@@ -487,12 +490,12 @@ Always include provision for keeping data somewhere else than your own hard driv
 ## Turf Wars
 
 ### Stay polite. 
-* When _necessary_ for copyright or goodwill, seek out "stakeholders."
+* When _necessary_ for copyright or goodwill, seek out "stakeholders"
 * Copyright: family members/trusts, editors/scholars
 * Departments, centers, scholarly organizations
 
 ### Don't be railroaded. Don't give up!
-* It may just take time or due acknowledgment of prior scholarship.
+* It may just take time or due acknowledgment of prior scholarship
 * Emphasize communal responsibility & effort, not individual efforts
   
 ---
@@ -502,12 +505,12 @@ Always include provision for keeping data somewhere else than your own hard driv
 ## Turf War Strategies
 
 ### Use "stakeholders" to solve problems for you
-* They work, too, and have contacts.
-* They can help you avoid feature creep (by delegation).
+* They work, too, and have contacts & deep knowledge
+* They can help you avoid feature creep (farm out work/features)
 
 ### Keep focus on what you actually want to achieve
 * May have to sacrifice total vision to reach most important goal
-* Adjust scope of content to remain firm about digital outcomes and structures
+* Adjust scope of content to remain firm about digital outcomes & infrastructures
 * Stay patient! 
 
 ---
@@ -545,14 +548,14 @@ class: medium
 * Public outreach
   * Open-access text creation
 * Community service
-  * Appeal to regional interests or needs
+  * Appeal to _regional_ interests and a _diverse_ public
 * Crowdsourcing 
   * Bring the public into the academic sphere
   
 ### Value!
 * Grant funding
-* Institutional prestige
-* "Let us take care of the administrators."
+* Institutional prestige: "Let us take care of what administrators want from the department."
+* Matt Huculak: Save students money for coursetexts
 
 ---
 
@@ -628,9 +631,9 @@ class: big
 
 ---
 
-# ModSource: Workflow
+# Proposed Workflow
 
-### Props to your prof's tiered solution
+### Props to Matt Huculak & Stephen Ross
 
 1. Solicit and receive PDF files from MSA members
   * Method depends on tech-savviness of provider: meet people where they are
