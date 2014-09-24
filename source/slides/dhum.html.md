@@ -133,13 +133,13 @@ class: middle, center, big
 |:------------|:--------------------:|----------------:|
 | Preface | 49.4% | 14.1 |
 | Bk 1, Ch 2 | 55.1% | 8.2 |
-| Bk 1, Ch 3 | 58.2 | 7.2 |
+| Bk 1, Ch 3 | 58.2% | 7.2 |
 | Bk 2, Ch 1 | 38.5% | 5.5 |
 | Bk 2, Ch 2 | 48.2% | 11.3 |
 
 |Type | Lexical Density | Readability |
 |:------|:------:|------:|
-| Dialogue | 57.9 | 4.1 |
+| Dialogue | 57.9% | 4.1 |
 | Narration | 66.0% | 11.4 |
 
 ---
@@ -634,7 +634,7 @@ class: big
 
 1. Solicit and receive PDF files from MSA members
   * Method depends on tech-savviness of provider: meet people where they are
-1. Gather files on GibHub for Groups page
+1. Gather files on GitHub for Groups page
 1. Convert PDFs to plain text
   * May use OCR/conversion program for bulk transformation of PDF into plain text
 1. Convert plain text files to Markdown files and commit to GitHub
