@@ -1,7 +1,7 @@
 ---
 title: Hi-Fi Lo-Fi Teaching
 date: 2014-09-27 21:06 UTC
-tags:
+tags: digital pedagogy,hybrid pedagogy,Alan Liu,Clay Shirky,Ryan Cordell
 ---
 
 Today, on Twitter, [Alan Liu](https://twitter.com/alanyliu) initiated a discussion about hybrid pedagogy following Clay Shirky's breakout essay, ["Why I Just Asked My Students To Put Their Laptops Away"](https://medium.com/@cshirky/why-i-just-asked-my-students-to-put-their-laptops-away-7f5f7c50f368). (I call it "breakout" not because it is breakout _for him_ but within my own socioacademic mediaverse, in which the post has been reposted by those far beyond my "usual suspects" DH pedagogists.) Shirky explains,
@@ -30,6 +30,6 @@ You have noticed already that it is my pleasure too. Part of me fears that this 
 
 For my particular groups of students, my 101 students tend to be engineers and other STEM fields, whereas my literature students are actually English majors. This semester, then, I can justify my hi-fi/lo-fi divide by pointing to my different student constituencies. For the future, however, I've been agitating the space people here at ASU Poly to redesign a few of our classrooms to feature 20 computer terminals lined on the three edges of the room with 20 seats at them, next to a traditional projection and whiteboard setup on the fourth wall. In the middle of the class will be rectangular tables pushed together to allow those same twenty chairs to roll away the computers to gather together in a rectangle, or to separate for group work at smaller tables. 
 
-I might actually succeed and get this magical room made. The space people are listening. And if I do, I will easily be able to have my diverse group of students have wifi-connected terminals furnished for them when we need them, but arranged in such a way that we can abandon them and face one another at any moment. But for now, I find it immensely relaxing to know what kind of experience I'm trying to secure for which group of students. In the future I hope to have both capabilities ready to go at all times, but for now, each one of my classes has already evolved its own unique character, and the lo-fi/hi-fi divide has made me more attuned to what my students derive from each environment.
+I might actually succeed and get this magical room made. The space people are listening. And if I do, I will easily be able to have my diverse group of students have wifi-connected terminals furnished for them when we need them, but arranged in such a way that we can abandon them and face one another at any moment. But for now, I find it immensely relaxing to know what kind of experience I'm trying to secure for which group of students. 
 
-In the meantime, I'm going to get this conference room reserved for Spring 2015 as soon as I can.
+In the future I hope to have both capabilities ready to go at all times, but for now, each one of my classes has already evolved its own unique character, and the lo-fi/hi-fi divide has made me more attuned to what my students derive from each environment. In the meantime, I'm going to get this conference room reserved for Spring 2015 as soon as I can.
