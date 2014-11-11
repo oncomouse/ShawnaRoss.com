@@ -74,7 +74,7 @@ _Reading Modernism with Machines_ is a collection of 7,000-word case studies I a
 
 ## Book Reviews & Invited Blog Posts
 
-**"Close Rereading: A Review of Jessica Pressman's _Digital Modernism_." *Digital Humanities Quarterly*. Forthcoming.
+**"Close Rereading: A Review of Jessica Pressman's Digital Modernism."** *Digital Humanities Quarterly*. Forthcoming.
 
 **["In Praise of Overstating the Case: A Review of Franco Moretti’s Distant Reading."](http:///www.digitalhumanities.org/dhq/vol/8/1/000171/000171.html)** *Digital Humanities Quarterly*, 8.1 (2014).
 
