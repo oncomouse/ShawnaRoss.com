@@ -74,6 +74,8 @@ _Reading Modernism with Machines_ is a collection of 7,000-word case studies I a
 
 ## Book Reviews & Invited Blog Posts
 
+**"Close Rereading: A Review of Jessica Pressman's Digital Modernism."** *Digital Humanities Quarterly*. Forthcoming.
+
 **["In Praise of Overstating the Case: A Review of Franco Moretti’s Distant Reading."](http:///www.digitalhumanities.org/dhq/vol/8/1/000171/000171.html)** *Digital Humanities Quarterly*, 8.1 (2014).
 
 **["Quantifying Yeats’s Dialogues."](http://ach.org/2013/12/30/quantifying-yeatss-dialogues/)** Blog post for the Association for Computers and the Humanities. 30 Dec. 2013. 
@@ -93,6 +95,8 @@ _Reading Modernism with Machines_ is a collection of 7,000-word case studies I a
 ## Selected Conference Presentations
 
 **"Remembering William Carlos Williams's 'The Use of Force': Anti-Vaxxers, Medical Ethics, and Short Story Syllabi."** Modern Language Association Conference. Vancouver, BC, January 2015. Accepted.
+
+**"A Digital James: Problems and Solutions for Modernist Digital Humanities."** Modernist Studies Association Conference. Pittsburgh, PA, November 2014.
 
 **"Agatha Christie’s Impossible Vacation."**  Modern Language Association. Chicago, IL, 2014.
 
