@@ -39,39 +39,41 @@ We also discussed subsidiary affordances---ones that are perhaps not as core to 
 
 1. providing access to the texts in multiple formats (.html for viewing in a browser, .epub for viewing in an ereader, .pdf for printing, and perhaps plaintext for use in basic digital humanities tools)
 
-It was understood, however, that this final affordance (plain text for text mining, visualization, et cetera) may represent the thin end of the wedge in terms of falling away from our core values and mission, leading us to the next topic.
+It was understood, however, that this final affordance (plaintext for text mining, visualization, et cetera) may represent the thin end of the wedge in terms of falling away from our core values and mission, leading us to the next topic.
 
 ## Expansion versus Core
 
 What we were calling "primary secondary" works or "primary criticism" for pedagogical purposes (not for research) is the core mission. These works include nonfiction written by important modernists who normally write poetry or fiction; significant works of philosophy, science, or social science; and literary criticism written during modernism. These works _help you teach modernist fiction and poetry_, such as criticism written by T. S. Eliot, Ezra Pound, and Virginia Woolf and manifestoes written by F. T. Marinetti, Mina Loy, and Wyndham Lewis.
 
-After meeting the core goals, we can we can add sound files (as Marit emphasized) and poetry (as this is included in the Rainey anthology). A later iteration might include fiction, but this goal should not influence the early decision-making process about workflows, hosting, et cetera. Overall, we outlined a plan for potential future expansion radiating in this way: 1) prototype versions, 2) "new Rainey" anthology, 3) sound and poetry, 4) fiction.) Not everyone agreed with these outer layers, it must be noted, as the clarity of "primary secondary" texts should help constrain the project so that we can make it happen quickly.
+After meeting the core goals, we can we can add sound files (as Marit emphasized) and poetry (as this is included in the Rainey anthology). A later iteration might include fiction, but this goal should not influence the early decision-making process about workflows, hosting, et cetera. Overall, we outlined a plan for potential future expansion radiating in this way: 1) prototype versions, 2) "new Rainey" anthology, 3) sound and poetry, 4) fiction. Not everyone agreed with these outer layers, it must be noted, as some argued that the clarity of "primary secondary" texts should necessarily constrain the project so that we can make it happen quickly.
 
 ## The tiers
 
-Questions of expansion, considered above regard the generic scope, whereas the "tiered" system refers to matters of creating the anthology and of unrolling various functionalities over time. Matt Huculak's original insight about a "tiered" process was seconded by Stephen and others during the meeting. Stephen aptly summarized this process as "scan, dump, and deal," though precisely what these mean was debated and left relatively undefined. However, my general understanding of the tiered process included these steps:
+Questions of expansion (considered above() regard the generic scope (which texts to include), whereas the "tiered" system (under consideration in this subtopic) refers to procedural matters of creating the anthology and of unrolling various functionalities over time. Matt Huculak's original insight about a "tiered" process was seconded by Stephen and others during the meeting. Stephen aptly summarized this process as "scan, dump, and deal," though precisely what these mean was debated and left relatively undefined. However, my general understanding of the tiered process included these steps:
 
 1.  Gather PDF or image files of first edition publications so as to address copyright for editors. 
 
 1. Create HTML or Markdown file via probably an OCR translation into plain text. OCR must be hand-corrected.
 
-1. Add coursepack functionality (and/or additional layers of markup/encoding)
+1. Add coursepack functionality (and/or additional layers of markup/encoding).
 
 Even at this level of generality, the questions multiplied: Do we do this among ourselves (the dozen at this meeting?) or broaden it to MSA in general and affiliates (BAMS)? Do we want to specify file formats more strictly? 
 
 ## Metadata
 
-Early in the meeting, we all agreed that a somewhat standardized set of metadata would be required not only for establishing the provenance of the text used to create our edition, but also for establishing identifiers that will be necessary for creating the website and the coursepack. Matt suggested 5 pieces of information: author, date of publication, publisher, provenance/archive (institution), and uploader (who provided file initially so we can track them down in case of a problem). I also stressed that we should indicate initial publication context, such as a little magazine or novel or collection. That would be 6 pieces of metadata. Already, we see a bit of "metadata creep," each turn of the screw making the sticklers happier but the rapid prototypers warier.
+Early in the meeting, we all agreed that a somewhat standardized set of metadata would be required not only for establishing the provenance of the text used to create our edition (hence linked to our copyright management), but also for establishing identifiers that will be necessary for creating the website and the coursepack. Matt suggested 5 pieces of information: author, date of publication, publisher, provenance/archive (institution), and uploader (who provided file initially so we can track them down in case of a problem or question). I also stressed that we should indicate initial publication context, such as a little magazine or novel or collection. That would be 6 pieces of metadata. Already, we see a bit of "metadata creep," each turn of the screw making the sticklers happier but the rapid prototypers warier.
 
 ## TEI conundrum
 
-Chris Forster suggested that quality control would require TEI. Most of us immediately and emphatically rejected that idea, but Chris's underlying concerns are still valid. Stephen and Matt stressed facility and speed, whereas Chris, with his [practical knowledge of setting up digital archives](http://harlemshadows.org/), was already, at this early stage, thinking about how we would deal with errors, variants, and other editorial details.
+Chris suggested that thorough quality control may require TEI. Most of us immediately and emphatically rejected that idea, but Chris's underlying concerns are still valid. Stephen and Matt stressed facility and speed, whereas Chris, with his [practical knowledge of setting up digital archives](http://harlemshadows.org/), was already, at this early stage, thinking about how we would deal with errors, variants, and other editorial details. (Balancing this trade-off between speed and quality will continue to animate our later discussions.)
 
 ## Copyright
 
 It should go without saying that we will try in all good faith to follow copyright laws.
 
-The Canadians in the group persuasively argued that we should host this project from Canada in order to take advantage of their copyright laws. For most texts, going by "50 years after the death of the author" (or, if published posthumously, then 50 years after publication) takes us further than the American standard of "texts published before 1923." Where the American law works better, we can arrange to have it hosted in America. In the vast majority of cases, each entry will meet copyright law _both_ in America and Canada. No matter what, though, we decided---per Stephen and Matt's advice---to include a notice on the anthology website that transfers all liability for copyright infringement on the end user.
+The Canadians in the group persuasively argued that we should host this project from Canada in order to take advantage of their copyright laws. For most texts, going by "50 years after the death of the author" (or, if published posthumously, then 50 years after publication) takes us further than the American standard of "texts published before 1923." Where the American law works better, we can arrange to have it hosted in America. In the vast majority of cases, each entry will meet copyright law _both_ in America and Canada. 
+
+No matter what, though, we decided---per Stephen and Matt's advice---to include a notice on the anthology website that transfers all liability for copyright infringement on the end user.
 
 ## Stephen's institutional machinations 
 
@@ -79,11 +81,11 @@ By the time the meeting started, Stephen had already made critical contacts with
 
 1. *University of Victoria:* He has worked out an informal agreement in which the University of Victoria libraries host our materials. By working with the UVic libraries, we can take advantage of various kinds of support, from technical support to librarian consultations to resources that would otherwise cost us money. (We may have further access to UVic resources beyond the libraries.)
 
-2. *MSA:* As this project began with an exchange on the MSA email list, it is only fitting taht we work with MSA on this project. MSA will put its backing behind us both in terms of reputation (we are one of their affiliates) and in terms of money (a bit of financial surplus might be drawn to us). As incoming MSA president, Stephen is admirably positioned to negotiate this relationship, and he convincingly argued that an open-access anthology is a resource that would serve MSA's members extremely well.
+2. *MSA:* As this project began with an exchange on the MSA email list, it is only fitting that we work with MSA on this project. MSA will put its backing behind us both in terms of reputation (we are one of their affiliates) and in terms of money (a bit of financial surplus might be drawn to us). As incoming MSA president, Stephen is admirably positioned to negotiate this relationship, and he convincingly argued that an open-access anthology is a resource that would serve MSA's members extremely well.
 
-3. *Modnets:* In addition to MSA, we will be affiliated and authenticated through Modnets. They will guarantee our accuracy and fidelity, as well as provide another way for teachers, students, and scholars to find our site.
+3. *ModNets:* In addition to MSA, we will be affiliated and authenticated through Pamela Caughie and David Chinitz's [ModNets](http://www.modnets.org/). They will guarantee our accuracy and fidelity, as well as provide another way for teachers, students, and scholars to find our site.
 
-Jeff Drouin is also promising to access his [MJP](http://modjourn.org/) for texts, links, and other forms of affiliation. And, as mentioned in the first blog post, we also want to liaise with [ModNets](http://www.modnets.org/). 
+Jeff Drouin is also promising to access his [MJP](http://modjourn.org/) for texts, links, and other forms of affiliation.
 
 ## What next?
 
