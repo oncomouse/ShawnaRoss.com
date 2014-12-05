@@ -26,7 +26,6 @@
 		- if not included_jquery
 			= javascript_include_tag "https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"
 			- included_jquery = true
-		= javascript_include_tag "jquery.overlaps.min.js"
 		= javascript_include_tag "jquery.inline-footnotes.min.js"
 		- if build?
 			- init_calls.push "$.inlineFootnotes({})";
