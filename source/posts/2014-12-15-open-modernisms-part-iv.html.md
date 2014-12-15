@@ -101,7 +101,7 @@ I summarized,
 
 > My reasoning is that if we commit to hosting images ourselves, 1) that's adding more hosting space by a non-trivial amount, 2) we'd have to make sure we have ownership over the images, which would slow down the process considerably, 3) also bringing up the specter of inconsistency, as in, we have some texts with image, PDF, and HTML, others without the image, etc, and then it could get confusing for our users (how would they know what formats to expect?), 5) as well as complicate our website design unnecessarily (Andrew?) and 5) also bring up the specter of page numbers for images if people expect to put them in the coursepack (Andrew and Chris have pretty much found a way to get page images through the coursepack maker process, but that doesn't involve images but rather text manipulated through pandoc). However, the project needs to have images stored internally somewhere in case our source website goes down. 
 
-At this point, as Chris and Andrew agreed with me, Claire agree _if_ we scrupulously linked back to source images, it seemed that we had reached a consensus: no publicly hosted facsimile images. James added the proviso that institutions through which we host our anthology "may very well wish to also host the page images/sources when it's convenient or useful to do so."
+At this point, as Chris and Andrew agreed with me, and Claire agreed _if_ we scrupulously linked back to source images, it seemed that we had reached a consensus: no publicly hosted facsimile images. James added the proviso that institutions through which we host our anthology "may very well wish to also host the page images/sources when it's convenient or useful to do so."
 
 ## Observations on project management
 
