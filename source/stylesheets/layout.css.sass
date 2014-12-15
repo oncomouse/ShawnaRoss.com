@@ -81,19 +81,19 @@ section
 #blog
 	article
 		.article_body
-			aside
-				float: left
-				width: 20%
-				margin: 1em 2em 1em 2em
-					left: -22%
-					right: 0
-				+clearfix
-				font:
-					family: $helvetica
-					size: 0.8rem
-				color: #666
-				p
-					margin-top: 0
+			//aside
+			//	float: left
+			//	width: 20%
+			//	margin: 1em 2em 1em 2em
+			//		left: -22%
+			//		right: 0
+			//	+clearfix
+			//	font:
+			//		family: $helvetica
+			//		size: 0.8rem
+			//	color: #666
+			//	p
+			//		margin-top: 0
 			ol, ul
 				margin-left: 6rem
 		footer
@@ -115,3 +115,46 @@ section
 //@include breakpoint($daddyBearMQ)
 //	section
 //		+container
+/*
+ * Footnote stuff
+ */
+@media screen and (min-width: 1155px)
+	#blog
+		.inline-footnote.closed, .inline-footnote.opened
+			display: block
+			position: absolute
+			font-size: 0.7em
+			margin-top: -1.5em
+			width: 7rem
+			border: 0
+			top: auto
+			padding: 0
+			
+
+			left: -7rem - ($leading / 2)
+			&.odd
+				left: auto
+				right: -7rem - ($leading / 2)
+			
+			p,ul,ol
+				margin-top: $leading * .7
+				&:first-child
+					margin-top: 0
+			
+			*
+				line-height: 1.25
+
+		.inline-footnote.opened
+			& > *:first-child
+				margin-top: $leading
+			&:before, &:after
+				display: none
+			
+
+		.inline-footnote sup
+			display: inline
+			top: 0
+			font-size: inherit
+			&:after
+				content: ". "
+	

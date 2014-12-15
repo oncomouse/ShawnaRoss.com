@@ -243,6 +243,7 @@ nav
 				margin: 0 auto !important
 					top: $leading !important
 			.footnotes
+				display: none
 				&:before
 					content: "Notes:"
 					display: block
@@ -517,6 +518,61 @@ section
 #blog
 	p.read_more, p.back_to_index
 		font-size: 1.35rem
+	a.reversefootnote, .footnotes ol
+		display: none
+		
+	// Footnote stuff
+	sup[id^="fnref"]
+		top: -0.25em
+		line-height: 0
+		font-size: inherit
+
+	.inline-footnote.closed
+		display: none
+
+	.inline-footnote.opened
+		position: relative
+		display: block
+		margin: auto
+		top: auto !important
+		margin-bottom: $leading
+		border-top: 3px solid #CCC
+		border-bottom: 3px solid #CCC
+		margin-top: 24px
+		padding-top: 0.5rem
+		padding-bottom: 0.5rem
+		padding-left: $leading/2
+		padding-right: $leading/2
+
+	.inline-footnote.opened > *:first-child
+		margin-top: 0
+
+	.inline-footnote sup
+		display: none
+
+	.inline-footnote.opened:after, .inline-footnote.opened:before
+		bottom: 100%
+		left: 50%
+		border: solid transparent
+		content: " "
+		height: 0
+		width: 0
+		position: absolute
+		pointer-events: none
+
+	.inline-footnote.opened:after
+		border-color: rgba(0, 0, 0, 0)
+		border-bottom-color: #FFF
+		border-width: 20px
+		margin-left: -20px
+
+	.inline-footnote.opened:before
+		border-color: rgba(0, 0, 0, 0)
+		border-bottom-color: #CCC
+		border-width: 24px
+		margin-left: -24px
+		
+		
 .tipue_search_bar_container
 	display: none
 
