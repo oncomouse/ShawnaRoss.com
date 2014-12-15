@@ -67,7 +67,7 @@ James expressed no problem with our selection of texts being "opportunistic in t
 
 > I would vote NOT to limit people on what they can do. If someone wants to scan the wasteland, God bless them. We all have individual passions. Let's harness that. Why say no when we have a group of passionate, experienced yeses? 
 
-In this Joycean affirmation, Chris's reiterated suggestion to limit the type of texts we include (e.g., no book-length works, no poetry, perhaps no fiction, nothing whose copyright status is unknown to us) was emphatically vetoed. But it may satisfy Chris, as our resident Spirit of Discipline and Forethought, that really the only proposals of his that have been completedly vetoed were 1) mandatory TEI and 2) the need for an unambiguous doctrine controlling which genres to include or exclude from the anthology.
+In this Joycean affirmation, Chris's reiterated suggestion to limit the type of texts we include (e.g., no book-length works, no poetry, perhaps no fiction, nothing whose copyright status is unknown to us) was emphatically vetoed. But it may satisfy Chris, as our resident Spirit of Discipline and Forethought, that really the only proposals of his that have been completely vetoed were 1) mandatory TEI and 2) the need for an unambiguous doctrine controlling which genres to include or exclude from the anthology.
 
  Do we risk a tower of Babel? For certain. But our biggest enemy is _losing interest_. 
 
