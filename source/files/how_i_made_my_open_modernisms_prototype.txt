@@ -1,0 +1,65 @@
+# What Worked
+
+## Using my phone
+You don't have to handle the book very harshly, only enough to open the book (no rough thwacking on and off a scanner)
+
+## Scanner Pro
+App for my iPhone, cost $2.99
+You use your normal camera, and it turns the photo into a great looking PDF automatically
+You can send it by email or put it on Dropbox or GoogleDrive or Evernote
+Immediately worked well; within 20 minutes of finding out it existed, I had it uploaded and had sent my first scans to myself (14 pages)
+Went to bathroom (our best light) and used white towel to get light whiter
+Automatic settings work great to fix contrast and light and shadows
+But sometimes had to adjust their automatic borders so you don't "miss" outer edges of text near borders
+
+## Perfect OCR
+
+App for my iPhone, cost $1.99
+Options to mail as PDF or as text file (copy onto clipboard, etc; image AND text)
+If you import from Camera, Poorer quality of images taken, somewhat
+If you do the Sure Scan 3x, you have to take the picture three times! Takes forever but gives best results. Not good enough to justify the three times taking the picture, however.
+Better results if you carefully hold page straight
+Better results if you adjust the contrast before OCRing (easy - the option is right there)
+Wish I could take image from Scanner Pro and put it into Perfect OCR ("from Album option might?")
+(Yes, you can send individual images from Scanner Pro to your camera's Photo Album, but not all at once, and the results are good, just about the same quality as the 3-in-one... so this is a stupid option, to mix the two apps)
+
+## What Didn't Work So Well
+
+### Department Copier
+Located original editions and checked out from library
+Used department copier/scanner to send PDFs of scanned images to myself
+Put them in a folder, made sure to keep original files
+Opened in Preview to orient them correctly (right side up)
+Used Thumbnail view to place pages in the correct order
+Without Photoship, the images were so bad I couldn't use them unless I played with scanner settings
+
+### GoogleDrive OCR
+Open Google Drive; under settings, check box "Convert uploaded files to Google Docs editor format" (if you are in old Google Drive, it's "Convert text from uploaded PDF and image files")
+Upload resulting single PDF file to Google Drive
+But it didn't work for me, in the new Drive it's a bit more complicated: "Drive you right-click on the uploaded image and choose "Open with ... Google Docs". After some time you have a new document ready to edit"
+Plus only can convert 10 MB at once. That's not doable for us
+I did have success with the smaller-sized files from the department scanner files that I got. Well, meaning that I got the Google OCR to emerge, but it was pretty bad.
+Next step was to try a small enough file size to use my Scanner Pro app images in the Google Drive OCR. I sent just one page (was about 1 MB). Excellent results! 
+Note: google ocr can work on jpegs
+
+## What Might Have Worked
+
+### Steal from Richard D Hathaway
+
+### Steal from HathiTrust, cutting and pasting plain text, page by page
+
+# Correcting OCR
+Started new Markdown file in TextMate (didn't want to correct OCR in the OCR file)
+Consulted the images, harder to look at the physical book down on my desk than juxtaposing two windows on my computer screen (I actually do original on top, TextMate on the bottom) (I tried looking between physical book and TextMate screen but it did hurt my neck.) (Wish someone would read it to me!)
+Not preserving line breaks (had to look up if it should be horsepail or horse-pail!)
+Not preserving hairline spaces
+Take out page numbers
+But am doing dashes as --- with spaces before and after them
+Finding it easy to correct text and add Markdown in the one fell swoop
+I see no reason to worry about retaining ligatures (e.g., "ae")
+But I am preserving the English spelling and anachronistic spelling (colours, to-day, instalments, should n't)
+Correction: really just fixing from ligatures, marks on the physical book, line breaks, punctuation
+Markdown elemenets: correct typing of dash size, italics, headers, paragraph breaks; random characters the OCR added in if the spine of the book was in the image I used (was too lazy to cut out the image of the spine, and that was a mistake)
+you get the hang of it: "diflicult" should be "difficult" and IeI should be "H"
+Began at 8:55, wanted a break at 10:15 (had gotten to xvi), finished at 10:30 for a total of 5,804 words.
+I did a spell check (and a line-break check) that took 10 minutes. (by pasting my text into wordcounter.net, actually)
