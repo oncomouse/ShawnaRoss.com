@@ -155,6 +155,7 @@ page "/research.html", :directory_index => false
 page "/search.html", :directory_index => false
 page "/slides/**/*", :directory_index => false
 page "/slides/*", :directory_index => false
+page "/files/*", :directory_index => false
 #page "/blog/feed.xml", :layout => false
 #page "/blog/rss.xml", :layout => false
 
@@ -165,6 +166,7 @@ configure :build do
   ignore "stylesheets/blog-old/*"
   #ignore "/research/*"
   ignore "/**/*.rb"
+  ignore "files"
   #set :http_prefix, "/new2"
   # Change this to build with a different file root.	
   #set :http_prefix, "/my/prefix/folder"
@@ -189,6 +191,22 @@ configure :build do
 
   # Or use a different image path
   # set :http_path, "/Content/images/"
+end
+
+# Implement a static directory named "files" in source:
+after_build do |builder|
+    builder.source_paths << File.dirname(__FILE__)
+    
+    output_dir = File.join(config[:build_dir],'files')
+    source_dir = File.join(config[:source], 'files')
+    
+    files = Dir.glob(File.join(source_dir,'**','*'))
+    
+    Dir.mkdir output_dir if not Dir.exists? output_dir
+    
+    files.each do |file|
+        builder.copy_file(file, file.sub(source_dir, output_dir))
+    end
 end
 
 activate :deploy do |deploy|
