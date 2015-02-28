@@ -1,1 +1,24 @@
-@import "themes/sans/sans"
+@import "themes/sans/sans";
+
+.big {
+	p, ul li, ol li, td, th {
+		font-size: 1.43rem;
+		line-height: 2rem;
+	}
+}
+
+.bigger{
+	p, ul li, ol li {
+		font-size: 2.15rem;
+		line-height: 1.35;
+	}
+}
+
+.waste-land{
+	blockquote{
+		margin: {
+			left: 0;
+			right: 0;
+		}
+	}
+}
