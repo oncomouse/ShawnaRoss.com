@@ -44,7 +44,7 @@ Note: google ocr can work on jpegs
 
 ## What Might Have Worked
 
-### Steal from Richard D Hathaway
+### Steal from Adrian Dover
 
 ### Steal from HathiTrust, cutting and pasting plain text, page by page
 
@@ -59,7 +59,10 @@ Finding it easy to correct text and add Markdown in the one fell swoop
 I see no reason to worry about retaining ligatures (e.g., "ae")
 But I am preserving the English spelling and anachronistic spelling (colours, to-day, instalments, should n't)
 Correction: really just fixing from ligatures, marks on the physical book, line breaks, punctuation
-Markdown elemenets: correct typing of dash size, italics, headers, paragraph breaks; random characters the OCR added in if the spine of the book was in the image I used (was too lazy to cut out the image of the spine, and that was a mistake)
+Markdown elements: correct typing of dash size, italics, headers, paragraph breaks; random characters the OCR added in if the spine of the book was in the image I used (was too lazy to cut out the image of the spine, and that was a mistake)
 you get the hang of it: "diflicult" should be "difficult" and IeI should be "H"
 Began at 8:55, wanted a break at 10:15 (had gotten to xvi), finished at 10:30 for a total of 5,804 words.
 I did a spell check (and a line-break check) that took 10 minutes. (by pasting my text into wordcounter.net, actually)
+
+The titles/headers: later, it will be automatically generated
+
