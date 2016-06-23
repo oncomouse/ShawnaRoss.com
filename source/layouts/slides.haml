@@ -57,7 +57,7 @@
 			- if slide_configuration_data['title']
 				= slide_configuration_data['title']
 		= stylesheet_link_tag("slides/remark/slides.css", :media => "all", :rel => "stylesheet" )
-		- slideshow_specific_css = sitemap.resources.select{|a| (a.destination_path.match current_resource.destination_path.gsub(/\.html/,".css"))}[0]
+		- slideshow_specific_css = sitemap.resources.select{|a| (a.destination_path.match File.basename(current_resource.destination_path.gsub(/\.html/,".css")))}[0]
 		- if !slideshow_specific_css.nil?
 			= stylesheet_link_tag(slideshow_specific_css.destination_path.gsub(/stylesheets\//,""), :media => "all", :rel => "stylesheet" )
 		= javascript_include_tag("slides/lib/head.min.js")
@@ -69,8 +69,8 @@
 		- head_load_callbacks = []
 		- head_js_array.push(javascript_path("slides/remark/remark.min.js"))
 		- head_js_array.push(javascript_path("slides/remark/add-ons/remark.language.js"))
+		- head_js_array.push(javascript_path("slides/lib/zepto.min.js"))
 		- if load_charts and chart_type == "Charts.js"
-			- head_js_array.push(javascript_path("slides/lib/zepto.min.js"))
 			- head_js_array.push(javascript_path("slides/lib/Charts.js"))
 			- head_js_array.push(javascript_path(chart_file_js))
 		- elsif load_charts and chart_type == "nv.d3.js"
@@ -118,7 +118,13 @@
 						scroll: false,
 						touch: true
 					}
-				});		
+				});
+				var image_scalar = {width: 0.85, height: 0.8 };
+				$(window).on('resize', function() {
+					$('img').css('max-width', parseInt($('.remark-slide-scaler').css('width')) * image_scalar['width'] + 'px');
+					$('img').css('max-height', parseInt($('.remark-slide-scaler').css('height')) * image_scalar['height'] + 'px');
+				}).resize();
+				
 				#{if head_load_callbacks.length > 0 then "\n\t// Load any add-ons:" end}
 				#{
 					head_load_callbacks.join("\n  ")
