@@ -6,8 +6,8 @@ id: cv
 # Shawna Ross
 {:.centered}
 
-6029 N. 16th Pl.   	   
-Phoenix, AZ 85016
+2708 Camelot Drive
+Bryan, Texas 77802
 {:.centered}
 
 (814) 441-3301  
@@ -42,7 +42,8 @@ document.write("<a href='mailto:"+link+"'>"+link+"</a>");
 
 ## Professional Experience
 
-| Lecturer | Arizona State University-Polytechnic | Aug. 2012-Present |
+| Assistant Professor | Texas A&M University | Aug. 2015-Present |
+| Lecturer | Arizona State University-Polytechnic | Aug. 2012-July 2015 |
 | Lecturer | The Pennsylvania State University | Aug. 2011-Aug. 2012 |
 | Graduate Teaching Assistant | The Pennsylvania State University | Aug. 2005-July 2011 |
 
@@ -55,46 +56,106 @@ B.A., English | University of Tennessee, *summa cum laude* | May 2005
 
 ## Book Projects
 
-_Leisured Fictions: Working at Play in British Literature, 1840-1960_ explores leisure—free time that isn’t free—as a literary trope emerging out of the historical appearance of a variety of new leisure spaces (particularly hotels, ocean liners, and seaside resorts) and of a public discourse evaluating these new developments, are taken up in the work of Charles Dickens, W. M. Thackeray, G. K. Chesterton, Henry James, E. M. Forster, Wyndham Lewis, Elizabeth Bowen, Katherine Mansfield, and Evelyn Waugh. For these writers, leisure serves not only as a prominent mode of aesthetic, economic, and social investment in Great Britain, but also as a fundamental field through which transnational relationships were forged and conceptualized. Adapting theoretical frameworks from space theory, critical leisure studies, and actor-network theory, as well as mining ocean liner archives to reconstruct the visual culture of crossing and cruising, _Leisure Fictions_ shows how leisure served as a powerful field for imagining and critiquing modernity, particularly through its dialectical relationship with philosophical and commercial concepts of modern labor.
+_Leisure Fictions: Hotels, Ocean Liners, and the Scene of Transatlantic Modernism_ explores how, for transatlantic nineteenth- and twentieth-century writers, leisure serves not only as a prominent mode of aesthetic, economic, and social investment, but also as a fundamental field through which transnational relationships were forged and conceptualized.
 
-_Reading Modernism with Machines_ is a collection of 7,000-word case studies I am co-editing with fellow digital humanist [James O’Sullivan](http://josullivan.org/). Distinguished from current collections on the digital humanities that focus primarily on methodology, tool use, and theory, this collection assembles case studies focused on interpretive outcomes that will materially contribute to discipline- and author-specific directions in Modernist Studies. Contributions about W. B. Yeats, James Joyce, Virginia Woolf, T. S. Eliot, Ezra Pound, and others will juxtapose written argumentation with computer-generated visualizations and statistics to illuminate digital approaches scholars can take to investigate the international literary avant-garde of the early twentieth century. In doing so, _Reading Modernism with Machines_ will break new ground in discipline-specific digital humanities research.
+_Charlotte Brontë at the Anthropocene_ argues that this author’s oeuvre, from the juvenilia to Villette, constructs a multispecies vision of nature/culture contact zones at the start of the Anthropocene and creates some of the first literary ecosystems animated by anthropogenic change. Four chapters show how Brontë engages with images of environmental devastation and climate change by narrating the interpenetration of human and nonhuman histories of Yorkshire. _Manuscript solicited by SUNY Press_.
 
+_Humans at Work in the Digital Age: Forms of Digital Textual Labor_ is a collection I am co-editing with Andrew Pilsch, featuring historical, cultural, and literary case studies that recuperate lost labor and laborers of early computer a technologies. _Under contract at Routledge for the Digital Research in the Arts and Humanities series_.
+
+_[Using Digital Humanities in the Classroom: A Practical Introduction for Students, Teachers, and Lecturers](https://www.bloomsbury.com/us/using-digital-humanities-in-the-classroom-9781350029743/)_ (Bloomsbury Academic, 2017), cowritten with Claire Battershill, is an introduction to teaching with digital humanities methods. It offers an approachable, step-by-step approach and is enhanced by a thorough, interactive Web Companion.
+
+_[Reading Modernism with Machines](https://www.palgrave.com/us/book/9781137595683)_ (Palgrave, 2016) is an edited collection, co-edited with James O’Sullivan, that, instead of focusing on methodology, tool use, and theory, assembles case studies focused on interpretive outcomes and interventions in ongoing scholarly debates on modernism.
+
+
+
+## Special Issues
+
+**"Anxious Pedagogies."** Forthcoming at _Pedagogy_ 19.3 (October 2019).
+
+**"[From Practice to Theory: A Forum on the Future of Digital Humanities and Modernist Studies.](https://modernismmodernity.org/forums/practice-theory-forum)"** _Modernism/modernity_ Print+ 3.2 (Summer 2018).
 
 ## Articles and Essays
 
-**"Hashtags, Compression Algorithms, and Henry James’s Late Style."** Forthcoming, *The Henry James Review*, 36.1 (Winter 2015).
+**"Teaching in Stormy Weather."** Forthcoming at _Pedagogy_ 19.3 (October 2019).
 
-**"Toward a Digital Henry James."** *Henry James Today*, ed., John Carlos Rowe. Forthcoming, Cambridge Scholars Press, November 2014.
+**"The Last Bluebell: Anthropocenic Mourning in the Brontës’ Flower Imagery.”** Forthcoming, _Victorians: A Journal of Culture and Literature_ 134 (Winter 2018).
 
-**"Mystery, History, Leisure, Pleasure: Evelyn Waugh, Bruno Latour, and the Ocean Liner."** *Literary Cartographies: Spatiality, Representation, and Narrative*, ed. Robert Tally. Palgrave Macmillan, 2014. 111-126.
+**"[The (Meme) Master: James's Afterlives in Viral Satire](https://muse.jhu.edu/article/676752)."** _The Henry James Review_ 38.3 (Fall 2017): 289-301.
 
-**"This Wild Hunt for Rest: Working at Play in The Ambassadors."** *Journal of Modern Literature* 37.1 (Fall 2013): 1-20.
+**“[Toward a Feminist Modernist Digital Humanities](https://www.tandfonline.com/doi/full/10.1080/24692921.2018.1505821).”** _Feminist Modernist Studies_ 1.3 (October 2018): 1-19. DOI: 10.1080/24692921.2018.1505821.
 
-**"The Two Hotels of Elizabeth Bowen: Utopian Modernism in the Age of Mechanized Hospitality."** *Utopianism, Modernism, and Literature in the Twentieth Century*, ed. Nathan Waddell and Alice Reeve-Tucker, Palgrave Macmillan, 2013. 148-167.
+**“[Ocean Liner Cutaways, Diagrams, and Composites: Technical Illustration as Mass Aesthetic in Popular Mechanics and The Illustrated London News](https://www.jstor.org/stable/pdf/10.5325/jmodeperistud.8.1.0001.pdf?seq=1#page_scan_tab_contents).”** _The Journal of Modern Periodical Studies_ 8.1 (2017): 1-33.
 
-## Book Reviews & Invited Blog Posts
+**“Digital Theme Analysis: Revitalizing Traditional Methods.”** With Randa El-Khatib. _Digital Humanities for Literary Studies: Theories, Methods, and Practices._ Ed. James O’Sullivan. Forthcoming, The Pennsylvania State Press, 2017.
 
-**"Close Rereading: A Review of Jessica Pressman's Digital Modernism."** *Digital Humanities Quarterly*. Forthcoming.
+**[“A Bechdel Test for #MLA16: Gendered Acts of Care on Academic Twitter.”](http://jitp.commons.gc.cuny.edu/a-bechdel-test-for-mla16-gendered-acts-of-care-on-academic-twitter/)** _The Journal of Interactive Pedagogy_, issue 9 (Summer 2016). 
 
-**["In Praise of Overstating the Case: A Review of Franco Moretti’s Distant Reading."](http:///www.digitalhumanities.org/dhq/vol/8/1/000171/000171.html)** *Digital Humanities Quarterly*, 8.1 (2014).
+**["Hashtags, Compression Algorithms, and Henry James’s Late Style."](https://muse.jhu.edu/article/567197)** _The Henry James Review_, 36.1 (Winter 2015).
+
+**["Toward a Digital Henry James."](http://www.cambridgescholars.com/henry-james-today)** *Henry James Today*, ed., John Carlos Rowe. Forthcoming, Cambridge Scholars Press, November 2014.
+
+**"[Mystery, History, Leisure, Pleasure: Evelyn Waugh, Bruno Latour, and the Ocean Liner."](http://www.palgrave.com/br/book/9781137456496)** *Literary Cartographies: Spatiality, Representation, and Narrative*, ed. Robert Tally. Palgrave Macmillan, 2014. 111-126.
+
+**["This Wild Hunt for Rest: Working at Play in The Ambassadors."](https://muse.jhu.edu/article/534501)** *Journal of Modern Literature* 37.1 (Fall 2013): 1-20.
+
+**["The Two Hotels of Elizabeth Bowen: Utopian Modernism in the Age of Mechanized Hospitality."](http://www.palgrave.com/us/book/9780230358935)** *Utopianism, Modernism, and Literature in the Twentieth Century*, ed. Nathan Waddell and Alice Reeve-Tucker, Palgrave Macmillan, 2013. 148-167.
+
+## Book Reviews, Encyclopedia Entries, Miscellany
+
+**Review of Generous Mistakes: Incidents of Error in Henry James.** Forthcoming, the _Papers of the Bibliographical Society of America_.
+
+**Review of Katherine Mansfield and the Bloomsbury Group.** Forthcoming, _Modern Language Review_ 114.1 (January 2019).
+
+**“John Middleton Murry.”** _The Routledge Encyclopedia of Modernism_, ed. Stephen Ross. Routledge, 2018. DOI: 10.4324/0123456789-REM1872-1.
+
+**[Review of From Page to Place: American Literary Tourism and the Afterlives of Authors](www.sharpweb.org/sharpnews/2018/04/28/jennifer-harris-hilary-iris-lowe-from-page-to-place/).** _SHARP News_, 28 April 2018. 
+
+**“Arnold Bennett’s Hotel Kitchens.”** _Arnold Bennett Society Newsletter_ 1.1 (Jan. 2018), ed. Randi Saloman.
+
+**“[Five Lessons from Using Digital Humanities in the Classroom](http://bloomsburyliterarystudies.typepad.com/continuum-literary-studie/2017/11/five-lessons-from-using-digital-humanities-in-the-classroom.html ).”** With Claire Battershill. Bloomsbury Literary Studies, 1 Nov. 2017.
+
+**“Overview: British Literature of the Twentieth Century.”** _Gale Researcher, Vol. 9: British Literature of the Twentieth Century_. Cengage, 2017.
+
+**“Mrs. Dalloway: Virginia Woolf’s Modernist Breakthrough.”** _Gale Researcher, Vol. 9: British Literature of the Twentieth Century_. Cengage, 2017.
+
+**[“Digital Modernism as Method: Recent Publications in Digital Humanities.”](http://www.jstor.org/stable/10.2979/jmodelite.39.3.13)** Review essay. _Journal of Modern Literature_ 39.3 (Spring 2016): 163-182.
+
+**["Close Rereading: A Review of Jessica Pressman's Digital Modernism."](http://www.digitalhumanities.org/dhq/vol/9/1/000207/000207.html)** *Digital Humanities Quarterly*, 9.1 (2015). 
+
+**["Manifesto of Digital Modernism.”](http://www.shawnaross.com/manifesto)** With Alex Christie, Andrew Pilsch, and Katie Tanigawa. 12 Nov. 2014. 
+
+**["In Praise of Overstating the Case: A Review of Franco Moretti, Distant Reading."](http://www.digitalhumanities.org/dhq/vol/8/1/000171/000171.html)** *Digital Humanities Quarterly*, 8.1 (2014).
 
 **["Quantifying Yeats’s Dialogues."](http://ach.org/2013/12/30/quantifying-yeatss-dialogues/)** Blog post for the Association for Computers and the Humanities. 30 Dec. 2013. 
 
 **["You Already Know How to Do This: Natively Digital Victorian Studies."](http://myblogs.informa.com/jvc/2013/10/21/you-already-know-how-to-do-this-natively-digital-victorian-studies/)** Blog post for *Journal of Victorian Literature*. 21 Oct. 2013. 
 
-**"Katherine Mansfield: An Anxious Legacy."** Review of *Katherine Mansfield and Literary Modernism*, ed. *Journal of Modern Literature* 36.4 (Summer 2013): 177-182.
+**["Katherine Mansfield: An Anxious Legacy."](http://www.jstor.org/stable/10.2979/jmodelite.36.4.177)** Review of *Katherine Mansfield and Literary Modernism*, ed. *Journal of Modern Literature* 36.4 (Summer 2013): 177-182.
 
-## Publications in Progress
 
-**"Charlotte Brontë at the Anthropocene: Geology and Topography in _Jane Eyre_ and _Shirley_."** Target journal, *Victorian Literature and Culture*.
+## Conference Presentations
 
-**"Toward a Digital Modern Literature: Recent Publications in Digital Humanities."** Review essay solicited by the _Journal of Modern Literature_.
+**"Feminism & Me at the Theory Buffet."** Do We Need Another Feminist Roundtable? Modernist Studies Association Conference, November 2018.
 
-**"Delegated Sympathies: Surface Reading Katherine Mansfield's Objects."** Target journal, *Modern Fiction Studies*.
+**“This is Just to Say I Have X the Y in your Z>: Modernist Memes in an Era of Public Apology.”** Digital Humanities Summer Institute Conference and Colloquium, University of Victoria, BC, June 2018.
 
-## Selected Conference Presentations
+**“The Last Bluebell: Anthropocenic Mourning and Rebirth in the Brontës’ Flower Imagery.”** Interdisciplinary Nineteenth Century Studies Conference, San Francisco, CA, March 2018.
 
-**"Remembering William Carlos Williams's 'The Use of Force': Anti-Vaxxers, Medical Ethics, and Short Story Syllabi."** Modern Language Association Conference. Vancouver, BC, January 2015. Accepted.
+**“Using Digital Humanities in the Classroom.”** Digital Humanities Summer Institute Colloquium, University of Victoria, BC, June 2017.
+
+**“Pedagogy and Mutability in Student-Produced Minimal Digital Editions.”** Society for Textual Scholarship Conference, College Park, MD, May-June 2017.
+
+**“Industrial Data Goes Mass Aesthetic in Popular Mechanics and The London Illustrated News.”** Modernist Studies Association Conference. Pasadena, CA, November 2016. 
+
+**“The (Meme) Master: James’s Afterlives in Viral Satire.”** 2016 International Henry James Conference. Waltham, MA, June 2016.
+
+**“Real Digital Modernism.”** Modernist Studies Association Conference. Boston, MA, November 2015.
+
+**“Henry James’s Voyages: Reflections on Interactive Map Development.”** DHSI Colloquium. Victoria, BC, June 2015.
+
+**“The 19 Voyages of Henry James: A Digital Project.”** Interdisciplinary Nineteenth Century Conference. Atlanta, GA, April 2015.
+
+**"Remembering William Carlos Williams's 'The Use of Force': Anti-Vaxxers, Medical Ethics, and Short Story Syllabi."** Modern Language Association Conference. Vancouver, BC, January 2015.
 
 **"A Digital James: Problems and Solutions for Modernist Digital Humanities."** Modernist Studies Association Conference. Pittsburgh, PA, November 2014.
 
@@ -120,6 +181,8 @@ _Reading Modernism with Machines_ is a collection of 7,000-word case studies I a
 
 ## Awards & Grants
 
+**Toward a Digital Henry James,** Institute for Humanities Research Seed Grant, Arizona State University, Spring 2014. Co-PI with Andrew Pilsch. Outcome: Funded.
+
 **Toward a Digital Henry James**, Institute for Humanities Research Seed Grant, Arizona State University, Spring 2014. Co-PI with Andrew Pilsch. (Outcome: Revise and Resubmit.)
 
 **Excellence In Teaching Award**, Penn State English Department, Spring 2012.
@@ -128,79 +191,18 @@ _Reading Modernism with Machines_ is a collection of 7,000-word case studies I a
 
 **RGSO Dissertation Support Award**, Penn State College of the Liberal Arts, Spring 2010.
 
-## Service & Memberships
+## Selected Service & Memberships
 
-**Obama Scholars Mentor**. Arizona State University, 2014.
+**Board Member**, Mina Loy: Navigating the Avant Garde; Open Modernisms
 
-**Organizer**, "Problems and Solutions for Modernist Digital Humanities." MSA Conference, 2014.
+**Editor, Cluster on “From Practice to Theory: A Forum on the Future of Digital Humanities and Modernist Studies.”** Modernism/modernity, PrintPlus Platform. Projected publication date, Summer 2017.
 
-**SLS Representative**, Dialogue@ASU Workshop. Arizona State University, 2014.
+**Digital Projects, Tools, and Editions Editor,** _Journal of Digital Literary Studies_. Pennsylvania State University Press. 2015-.
 
-**Participant**, THATCamp Southwest. Tempe, AZ, 2014.
+**Peer Reviewer,** _Modern Language Studies_, _Modern Language Quarterly_, _Digital Humanities Quarterly_, _Digital Studies / Le champ numérique_, _Literature Compass_, _MLA Literary Studies in the Digital Age_, Fairleigh Dickinson UP
 
-**Participant**, Content Management Systems Working Group. Arizona State University, 2014.
-
-**Chair**, "Invisible Light." NAVSA Conference, 2013.
-
-**Honors Advisor**, Gina Fiorentin. "Race and Sexuality in the Victorian Imperial Romance," 2012.
-
-**Organizer**, "Leisure Modernism." MSA Conference, 2011. 
-
-**Chair**, "Thirties Modernism: Across Spaces, Across Forms." MSA Conference, 2009.
-
-**Tutor**, Undergraduate Writing Center. Pennsylvania State University, 2008.
+**Member,** MLA, MSA, INCS, NAVSA, Henry James Society
 
 
-**Speakers Series Coordinator**, Modernist Workshop. The Pennsylvania State University, 2007-2009. 
-
-**Treasurer**, Modernist Workshop. The Pennsylvania State University, 2005-2009. 
-
-**Member**, Modern Literature Association, Modernist Studies Association, North American Victorian Studies Association, Henry James Society
-
-## Teaching Experience	<small>18 distinct courses / 38 total sections</small>
-
-### British Literature	<small>9 courses / 12 sections</small>
-
-**Survey of British Literature from 1800**: Uses digital-humanistic methods to teach students how to engage with British literature as a salient discourse turning history and culture into significant form.
-
-**The Novel to Jane Austen**: Examines the growth of the British novel through epistolary novels, Gothic novels, and novels of manners by Defoe, Richardson, Walpole, Burney, Austen, and others.
-
-**Soldiers, Spies, and Bureaucrats: Adventure Fiction of the British Empire**: Charts the growth of imperial romance genre (Haggard, Ouida, Childers, Marryat, Mason) through a postcolonial lens.
-
-**The Brontës: Love and Hate in Yorkshire**: Covers juvenilia, drawings, and novels of Charlotte, Branwell, Emily, and Anne Brontë. Students create a “Brontë Wiki” and online concordances.
-
-**Modern British Fiction, 1900-1945**: Adapts cultural studies to stress artistic experimentation as interrelated with the economic, technological, and geopolitical conditions of modernization.
-
-**Modern Irish Literature**: Reads Joyce, Yeats, Synge, Beckett, Bowen, O’Flaherty, Kavanagh, O’Brien, Boland, Doyle, and Enright through the contested rubric of cultural nationalism.
-
-**The Edwardians, Then and Now**: Comparatively analyzes literature from the Edwardian period with contemporary representations to query the relationship between history, desire, and nostalgia.
-
-**Virginia Woolf and the Bloomsbury Group**: Clusters the fiction, criticism, fine and decorative arts, philosophy and economics of the Group to investigate class, empire, gender, and sociability. 
-
-**Mapping London Through Literature**: Surveys literature set in London (Defoe, Blake, Dickens, Doyle, Chesterton, Woolf, Eliot, Christie, Spark, and Moore). Students then digitally map texts. 
-
-
-### Other Literatures & Theory <small>5 courses / 7 sections</small>
-
-**Survey of Western Literature to 1600**: Foregrounds themes of hospitality, travel, and translation in Sappho, Homer, Virgil, Dante, Boccaccio, Cervantes, Rabelais, Shakespeare, and others.
-
-**Survey of World Literature from 1600**: Analyzes literature as a virtual space of cultural immersion (Motokiyo, Menglong, Rousseau, Jun’Ichiro, Xun, Kafka, Peynetsa, Achebe, Díaz, and others).
-
-**Introduction to Critical Reading**: Serves as a gateway to the English major by introducing students to a variety of methods of literary-critical analysis and theory, using Dracula as a case study.
-
-**Reading Fiction**: Juxtaposes “literary” and “popular” texts addressing similar themes to focus on fiction as a genre. Teaches tenets of narratology to encourage precision during discussions.
-
-**The American Short Story**: Surveys realist, modernist, and post-modern stories to see America as a semiotic system linking structure, voice, and conflicts between politics and personal experience.
-
-
-### Rhetoric & Composition <small>4 courses / 19 sections</small>
-
-**Introduction to Rhetoric and Composition**: Combines classical figures of rhetoric and grammar to teach college writing. Students choose a personal “theme” to give them a sense of ownership.
-
-**Social Media as Composition**: Teaches college writing through interrogating the rhetorical and structural norms of new genres of social media communication. All essays are multi-modal.
-
-**Honors Composition: The Rhetoric of Food Blogging**: Foregrounds food blogging as a case study for interrogating the affordances of online writing. Students create blogs as well as essays.
-
-**Freshman Seminar**: Teaches writing while familiarizing freshmen with the academic skills needed for college and introduces them to on-campus vocational, technological, and support resources.
 
 ###References upon Request
