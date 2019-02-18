@@ -7,7 +7,8 @@ tags:
 **Lo-Fi Modernism**  
 CFP, Proposed Roundtable for MSA 2019 
 
-Keyword + 200-word abstracts due Friday, March 1 to Shawna Ross and Erin Templeton
+Keyword + 200-word abstracts due Friday, March 1 to Shawna Ross and Erin Templeton  
+via shawnaross1 at gmail dot com
 
 Modernism is expensive—so we assume. We take for granted high modernism’s elitism, particularly as an object of study in the contemporary academy. And indeed, many of the methods associated with the rise of the New Modernist Studies are resource-intensive, while the temporal and spatial expansion of modernism call attention to problems of resource inequality. Transnational, global, and planetary approaches to modernism call for including students, faculties, and institutions who may not have reliable access to some of the research resources typical of modernist scholarship. The field’s renewed interest in archives threatens to exclude scholars without a generous travel budget, while expansions into Digital Humanities and New Media Studies (particularly sound studies and game studies) often require investments in specialized equipment and software. Meanwhile, for US-based scholars, the Great Divide that separates public domain and copyrighted materials poses restrictions on what, where, how we can pursue our research projects.
 
