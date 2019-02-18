@@ -1,0 +1,132 @@
+.ribbon {
+  position: relative;
+  text-align: center;
+
+  @include linear-gradient($ribbonFrontTopGradientColor, $ribbonFrontBottomGradientColor);
+
+  box-shadow: rgba(0, 0, 0, 0.3) 0 1px 1px;
+
+  &.shawna, &.ross {
+    @include span(4 of 8);
+
+    width: 378px;
+  }
+
+  &.ross {
+    @include span(4 of 8 last);
+
+    width: 378px;
+  }
+
+  h1 {
+    color: $ribbonTextColor;
+    text-shadow: $ribbonTextShadowColor 0 1px 0;
+    margin: 0px;
+    padding: 0 {
+      top: $leading / 2;
+    };
+    line-height: $scale * 3rem;
+  }
+
+  &:before, &:after {
+    content: "";
+    position: absolute;
+    display: block;
+    bottom: -2em;
+    border: 2.5em solid $ribbonEndColor;
+    z-index: -1;
+  }
+
+  &.shawna {
+    text-align: right;
+
+    h1 {
+      margin-right: $leading * 2;
+    }
+
+    &:before {
+      left: -3em;
+      border-right-width: 2.5em;
+      border-left-color: transparent;
+      box-shadow: rgba(0, 0, 0, 0.4) 1px 1px 1px;
+    }
+
+    &:after {
+      display: none;
+    }
+
+    .ribbon-content {
+      &:after {
+        border-width: 2em 0 0 2em;
+        bottom: 0;
+      }
+    }
+  }
+
+  &.ross {
+    text-align: left;
+
+    h1 {
+      margin-left: $leading * 2;
+    }
+
+    &:before {
+      display: none;
+    }
+
+    &:after {
+      right: -3em;
+      border-left-width: 2.5em;
+      border-right-color: transparent;
+      box-shadow: rgba(0, 0, 0, 0.4) -1px 1px 1px;
+    }
+
+    .ribbon-content {
+      &:before {
+        border-width: 2em 2em 0 0;
+        bottom: 0;
+      }
+    }
+  }
+
+  &.small-left, &.small-right {
+    width: 56px;
+    height: 4.5rem;
+    z-index: 2;
+    position: absolute;
+    top: $splashHeight - 40;
+
+    &:before, &:after {
+      display: none;
+    }
+  }
+
+  &.small-left {
+    left: 337px;
+  }
+
+  &.small-right {
+    right: 337px;
+  }
+
+  .ribbon-content {
+    &:before, &:after {
+      border-color: $ribbonFoldColor transparent transparent transparent;
+      position: absolute;
+      display: block;
+      border-style: solid;
+      bottom: -2em;
+      content: "";
+    }
+
+    &:before {
+      left: 0;
+      border-width: 2em 0 0 2em;
+    }
+
+    &:after {
+      right: 0;
+      border-width: 2em 2em 0 0;
+    }
+  }
+}

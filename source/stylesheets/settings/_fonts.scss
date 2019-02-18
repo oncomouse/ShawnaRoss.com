@@ -1,0 +1,20 @@
+$georgia: Georgia, Times, "Times New Roman", serif;
+$baseFontSize: 20;
+$baseLineHeight: 1.5;
+$scale: 1.25;
+$leading: $baseLineHeight * 1rem;
+
+$bodyFontFamily: $georgia;
+$bodyFontWeight: 400;
+$headerFontFamily: "Josefin Sans";
+$headerFontWeight: 700;
+
+$linkFontWeight: $bodyFontWeight;
+
+@mixin genericons {
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font: normal 1rem / 1 Genericons;
+  text-decoration: inherit;
+  vertical-align: text-bottom;
+}
