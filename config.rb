@@ -16,7 +16,7 @@ compass_config do |config|
 end
 
 activate :syntax
-activate :similar
+# activate :similar
 
 set :disqus_name, "shawnarossblog"
 

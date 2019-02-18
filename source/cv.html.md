@@ -76,17 +76,17 @@ _[Reading Modernism with Machines](https://www.palgrave.com/us/book/978113759568
 
 ## Articles and Essays
 
+**“Digital Theme Analysis: Revitalizing Traditional Methods.”** With Randa El-Khatib. _Digital Humanities for Literary Studies: Theories, Methods, and Practices._ Ed. James O’Sullivan. Forthcoming, The Pennsylvania State Press.
+
 **"Teaching in Stormy Weather."** Forthcoming at _Pedagogy_ 19.3 (October 2019).
 
 **"The Last Bluebell: Anthropocenic Mourning in the Brontës’ Flower Imagery.”** Forthcoming, _Victorians: A Journal of Culture and Literature_ 134 (Winter 2018).
-
-**"[The (Meme) Master: James's Afterlives in Viral Satire](https://muse.jhu.edu/article/676752)."** _The Henry James Review_ 38.3 (Fall 2017): 289-301.
 
 **“[Toward a Feminist Modernist Digital Humanities](https://www.tandfonline.com/doi/full/10.1080/24692921.2018.1505821).”** _Feminist Modernist Studies_ 1.3 (October 2018): 1-19. DOI: 10.1080/24692921.2018.1505821.
 
 **“[Ocean Liner Cutaways, Diagrams, and Composites: Technical Illustration as Mass Aesthetic in Popular Mechanics and The Illustrated London News](https://www.jstor.org/stable/pdf/10.5325/jmodeperistud.8.1.0001.pdf?seq=1#page_scan_tab_contents).”** _The Journal of Modern Periodical Studies_ 8.1 (2017): 1-33.
 
-**“Digital Theme Analysis: Revitalizing Traditional Methods.”** With Randa El-Khatib. _Digital Humanities for Literary Studies: Theories, Methods, and Practices._ Ed. James O’Sullivan. Forthcoming, The Pennsylvania State Press, 2017.
+**"[The (Meme) Master: James's Afterlives in Viral Satire](https://muse.jhu.edu/article/676752)."** _The Henry James Review_ 38.3 (Fall 2017): 289-301.
 
 **[“A Bechdel Test for #MLA16: Gendered Acts of Care on Academic Twitter.”](http://jitp.commons.gc.cuny.edu/a-bechdel-test-for-mla16-gendered-acts-of-care-on-academic-twitter/)** _The Journal of Interactive Pedagogy_, issue 9 (Summer 2016). 
 
